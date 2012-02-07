@@ -13,8 +13,6 @@ Since nothing restricts a webfont to be solely used for screen displays, why not
 
 Selecting the appropriate font for any project requires testing, and to evaluate the end result, a paper printout will always beat a screen preview.
 
-## References
-
 [fl]: http://www.fontsquirrel.com/
 [tt]: http://www.typekit.com/
 [gs]: http://www.google.com/webfonts#HomePlace:home
