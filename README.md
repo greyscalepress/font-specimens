@@ -18,3 +18,12 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 [fl]: http://www.fontsquirrel.com/
 [tt]: http://www.typekit.com/
 [gs]: http://www.google.com/webfonts#HomePlace:home
+
+## License
+
+To be defined yet.
+
+## Acknowledgements
+
+Authors:
+- Manuel Schmalstieg (@greyscalepress)
