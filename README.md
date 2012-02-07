@@ -17,11 +17,13 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 [tt]: http://www.typekit.com/
 [gs]: http://www.google.com/webfonts#HomePlace:home
 
+* * *
+
 ## License
 
-To be defined yet.
+To be defined yet. 
 
 ## Acknowledgements
 
 Authors:
-- Manuel Schmalstieg (@greyscalepress)
+* Manuel Schmalstieg (@greyscalepress)
