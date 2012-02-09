@@ -1,0 +1,62 @@
+license: OFL
+payment: POOL
+url: http://www.ascendercorp.com
+# 2010-11-17 DC should we have a mono category?
+category: sans-serif
+#subsets: menu,latin,latin-ext,cyrillic+latin,cyrillic-ext+latin,greek+latin,greek-ext+latin,hebrew,ipa
+subsets: menu,latin
+
+family: Cousine
+
+designer: Steve Matteson
+
+profiledescriptionlicense: Creative Commons Attribution-ShareAlike 3.0
+profiledescriptionlicenseurl: http://creativecommons.org/licenses/by-sa/3.0/
+approved: true
+description: <p>Cousine was designed by Steve Matteson \
+  as an innovative, refreshing sans serif design that is \
+  metrically compatible with Courier New™. Cousine offers \
+  improved on-screen readability characteristics and \
+  the pan-European WGL character set and solves the \
+  needs of developers looking for width-compatible \
+  fonts to address document portability across \
+  platforms.</p>
+
+# cd ~/src/font-optimizer; ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="Cousine PrКаилрцΕάεηικλν()" \
+#     ~/googlefontdirectory/cousine/Cousine-Regular.{ttf,menu};
+# cd ~/googlefontdirectory/cousine/;
+#
+# for family in cousine; do
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do
+#        for subset in \
+#            latin latin-ext \
+#            cyrillic+latin cyrillic-ext+latin \
+#            greek+latin greek-ext+latin; do
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset;
+#            python tools/subset/subset.py  --null --nmr --roundtrip \
+#                --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log;
+#        done;
+#    done;
+# done;
+
+# cd ~/src/font-optimizer; ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="Cousine" \
+#     ~/googlefontdirectory/cousine/Cousine-Regular.{ttf,menu};
+# cd ~/googlefontdirectory/;
+# for family in cousine; do
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do
+#        for subset in \
+#            latin; do
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset;
+#            python tools/subset/subset.py  --null --nmr --roundtrip \
+#                --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log;
+#        done;
+#    done;
+# done;
