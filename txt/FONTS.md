@@ -5,45 +5,58 @@ Open Source Font Specimens
 
 A non-exhaustive list of fonts that should be included in this book.
 
-Ubuntu Font Family: http://font.ubuntu.com/
+### Ubuntu Font Family 
 * designer: Dalton Maag
 * licence: Ubuntu Font Licence
+* link: http://font.ubuntu.com/  
 
-Droid Fonts: http://www.droidfonts.com/
+### Linux Libertine
+* designer: Philipp H. Poll
+* licence: SIL Open Font License, 1.0
+* link: http://www.linuxlibertine.org
+
+### Droid Fonts: 
 * designer: Steve Matteson
 * licence: Apache License, Version 2.0
+* link: http://www.droidfonts.com/
 
-Roboto: http://developer.android.com/design/style/typography.html
+### Roboto: 
 * designer: Christian Robertson
 * licence: Apache License, Version 2.0
+* link: http://developer.android.com/design/style/typography.html
 
-PT Sans, PT Serif, PT Mono
+### PT Sans, PT Serif, PT Mono
 * designer: ParaType Ltd 
 * licence: ParaType Free Font Licensing Agreement
+* link: http://www.paratype.com/public/
 
-Gentium
+### Gentium
 * designer: Victor Gaultney
 * licence: SIL Open Font License
 
 ## Selection of Google Web Fonts:
 
-Cantarell: http://www.google.com/webfonts/specimen/Cantarell
-* designer: Dave Crossland
+### Cantarell: 
+* designer: Dave Crossland (Abattis)
 * licence: SIL Open Font License, 1.1
+* link: http://abattis.org/cantarell/
 
-Cousine
+### Cousine
 * designer: Steve Matteson
 * licence: SIL Open Font License, 1.1
+* link: http://www.google.com/webfonts/specimen/Cousine
 
-Arimo
+### Arimo
 * designer: Steve Matteson
 * licence: SIL Open Font License, 1.1
+* link: http://www.google.com/webfonts/specimen/Arimo
 
-Alegreya
+### Alegreya
 * designer: Juan Pablo del Peral (Huerta Tipográfica)
 * licence: SIL Open Font License, 1.1
+* link: http://www.fontsquirrel.com/fonts/alegreya
 
-Crimson Text
+### Crimson Text
 * designer: Sebastian Kosch
 * licence: SIL Open Font License, 1.1
 
@@ -54,7 +67,8 @@ http://somadesign.ca/demos/better-google-fonts/
 
 http://en.wikipedia.org/wiki/Template:Free_and_open_source_typography
 
-Typefaces:     
+Typefaces: 
+    
 * Allerta
 * Asana-Math
 * Beteckna
