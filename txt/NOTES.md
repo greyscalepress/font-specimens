@@ -42,4 +42,4 @@ Some resources that might help in establishing a selection of fonts covered in t
 [Soma Design](http://somadesign.ca) has produced a great classification of fonts hosted by Google Webfonts, ordered by the number of weights and variants that each typeface offers:
 http://somadesign.ca/demos/better-google-fonts/
 
-* * *
+* * * * * 
