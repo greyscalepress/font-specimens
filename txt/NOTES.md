@@ -42,4 +42,10 @@ Some resources that might help in establishing a selection of fonts covered in t
 [Soma Design](http://somadesign.ca) has produced a great classification of fonts hosted by Google Webfonts, ordered by the number of weights and variants that each typeface offers:
 http://somadesign.ca/demos/better-google-fonts/
 
+## Miscellaneous Resources:
+
+In November 2011, a FLOSS manuals book-sprint was carried out in Rennes (France) that produced *"Polices de caractères libres"*, a book dedicated to the production of free fonts (covering the use of FontForge and Inkscape) :  
+http://fr.flossmanuals.net/fontes-libres/
+
+
 * * * * * 
