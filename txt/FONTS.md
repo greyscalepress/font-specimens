@@ -103,6 +103,14 @@ http://en.wikipedia.org/wiki/Category:Open_source_typefaces
 
 http://openfontlibrary.org/
 
+http://freedesktop.org/wiki/Software/Fonts
+
+http://www.unifont.org/fontguide/
+
+http://scripts.sil.org/OFL_fonts
+
+Debian Fonts Taskforce: http://pkg-fonts.alioth.debian.org/
+
 ## References
 
 * [SIL Open Font License](http://scripts.sil.org/OFL)

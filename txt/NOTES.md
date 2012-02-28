@@ -47,5 +47,7 @@ http://somadesign.ca/demos/better-google-fonts/
 In November 2011, a FLOSS manuals book-sprint was carried out in Rennes (France) that produced *"Polices de caractères libres"*, a book dedicated to the production of free fonts (covering the use of FontForge and Inkscape) :  
 http://fr.flossmanuals.net/fontes-libres/
 
+The website [planet.open-fonts.org](http://planet.open-fonts.org/) - edited and hosted by Nicolas Spalinger - provides news from the open font community.
+
 
 * * * * * 
