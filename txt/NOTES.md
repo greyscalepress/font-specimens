@@ -13,14 +13,16 @@ A font specimen sheet usually displays all characters of a font, at different po
 
 Some examples of font specimens, specimen sheets and type catalogs : 
 
-A beautiful specimen sheet of typefaces and languages, published in 1728 by **William Caslon**:  
+A beautiful specimen sheet of typefaces and languages, published in 1728 by William Caslon:  
 http://commons.wikimedia.org/wiki/File:Caslon-schriftmusterblatt.jpeg
 
 Since 1991, **FontShop International** used to produce the classic yellow *FontBook*. The book is out of print, but PDF samples are available for download. The book has been replaced in 2011 by the FontBook iPad App.
 http://www.fontshop.com/products/fontbook/
 
-Designer **Gerrit van Aaken** has produced specimen sheets for a selection of free fonts: 
+Designer Gerrit van Aaken has produced specimen sheets for a selection of free fonts: 
 http://praegnanz.de/essays
+
+Tim Brown has created a [Web Font Specimen](http://webfontspecimen.com/demo/), and wrote about it on [A List Apart](http://www.alistapart.com/articles/real-web-type-in-real-web-context/).
 
 The typeface family *Roboto*, designed for the Android operating system, has an official specimen book:
 http://developer.android.com/design/style/typography.html
