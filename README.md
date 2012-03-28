@@ -1,9 +1,9 @@
 Open Source Font Specimens
 ==========================
 
-![](/greyscalepress/font-specimens/raw/master/img/graphic-sample-001.png)
-
 This is the README file for the "Open Source Font Specimens" book project, a hypothetical upcoming Greyscale Press publication.
+
+![](https://github.com/greyscalepress/font-specimens/raw/master/img/graphic-sample-001.png)
 
 ## Purpose
 
