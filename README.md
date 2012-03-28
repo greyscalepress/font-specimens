@@ -28,4 +28,5 @@ To be defined yet.
 ## Acknowledgements
 
 Authors:
+
 * Manuel Schmalstieg (@greyscalepress)
