@@ -3,7 +3,7 @@ Open Source Font Specimens
 
 This is the README file for the "Open Source Font Specimens" book project, a hypothetical upcoming Greyscale Press publication.
 
-![](https://github.com/greyscalepress/font-specimens/raw/master/img/graphic-sample-001.png)
+![Specimens: William Caslon (1728), Roboto, PT Mono (2011)](https://github.com/greyscalepress/font-specimens/raw/master/img/graphic-sample-001.png)
 
 ## Purpose
 
