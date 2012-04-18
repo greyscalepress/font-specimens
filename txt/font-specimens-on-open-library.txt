@@ -1,0 +1,26 @@
+SEARCH:
+
+http://openlibrary.org/search?q=type+specimen
+
+******
+
+http://openlibrary.org/works/OL15877970W/Abridged_specimen_book_type
+
+http://www.archive.org/stream/abridgedspecimen00keys#page/n7/mode/2up
+
+******
+
+http://openlibrary.org/works/OL6818286W/Specimens_of_printing_types
+
+
+1897, American Type Founders Co.
+Specimens of printing types
+
+http://www.archive.org/stream/specimensofprint00amerrich#page/n7/mode/2up
+
+******
+
+http://www.archive.org/stream/cihm_91523#page/n0/mode/2up
+
+http://openlibrary.org/books/OL17430223M/Specimens_of_printing_types_plain_ornamental
+
