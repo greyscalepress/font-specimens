@@ -27,6 +27,8 @@ https://www.createspace.com/Products/Book/#content4
 8 x 10 inches
 8.5 x 11 inches
 
+Number of Pages must be between 24 and 828.
+
 ### CreateSpace - Restrictions for Expanded Distribution :
 
 Books with *cream paper* must be one of the following trim sizes: 
@@ -37,6 +39,8 @@ Books with *cream paper* must be one of the following trim sizes:
 
 ## Lulu.com
 http://www.lulu.com/services/distribution
+
+Minimum 32 pages, maximum 740 pages 
 
 ### ExtendedReach (Amazon) - Black and White
 http://www.lulu.com/services/distribution/extendedreach
