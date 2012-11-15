@@ -25,8 +25,6 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 
 To be defined yet. 
 
-## Acknowledgements
+## Links
 
-Authors:
-
-* Manuel Schmalstieg (@greyscalepress)
+Statement of intent: http://greyscalepress.com/2012/news/open-source-font-specimens/
