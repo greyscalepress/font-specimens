@@ -23,7 +23,7 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 
 ## License
 
-To be defined yet. 
+To be defined yet :) 
 
 ## Links
 
