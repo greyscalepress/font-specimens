@@ -52,4 +52,4 @@ http://fr.flossmanuals.net/fontes-libres/
 The website [planet.open-fonts.org](http://planet.open-fonts.org/) - edited and hosted by Nicolas Spalinger - provides news from the open font community.
 
 
-* * * * * 
+* * * * * *
