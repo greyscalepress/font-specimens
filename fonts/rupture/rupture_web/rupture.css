@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Rupture';
+    src: url('rupture-webfont.eot');
+    src: url('rupture-webfont.eot?#iefix') format('eot'),
+         url('rupture-webfont.woff') format('woff'),
+         url('rupture-webfont.ttf') format('truetype'),
+         url('rupture-webfont.svg#webfontgcwKlGj6') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
