@@ -1,0 +1,21 @@
+@font-face {
+font-family: 'NemoyLight';
+src: url('nemoy_light-webfont.eot');
+src: local('☺'), url('nemoy_light-webfont.eot?#iefix') format('embedded-opentype'),url('nemoy_light-webfont.woff') format('woff'),url('nemoy_light-webfont.ttf') format('truetype'),url('nemoy_light-webfont.svg#NemoyLight') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'NemoyMedium';
+src: url('nemoy_medium-webfont.eot');
+src: local('☺'), url('nemoy_medium-webfont.eot?#iefix') format('embedded-opentype'),url('nemoy_medium-webfont.woff') format('woff'),url('nemoy_medium-webfont.ttf') format('truetype'),url('nemoy_medium-webfont.svg#NemoyMedium') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'NemoyBold';
+src: url('nemoy_bold-webfont.eot');
+src: local('☺'), url('nemoy_bold-webfont.eot?#iefix') format('embedded-opentype'),url('nemoy_bold-webfont.woff') format('woff'),url('nemoy_bold-webfont.ttf') format('truetype'),url('nemoy_bold-webfont.svg#NemoyBold') format('svg');
+font-weight: normal;
+font-style: normal;}
+
