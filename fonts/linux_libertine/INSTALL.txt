@@ -1,0 +1,13 @@
+INSTALL:
+========
+
+1) Windows: 
+Copy fonts into folder font-folder from windows, e.g.
+C:\windows\fonts.
+
+2) Linux: 
+Use system programs such as KDE-Kontrol to install the fonts or
+copy all fonts to the fonts directory in $HOME (~/.fonts).
+These also update Linux specific system files.
+
+Philipp Poll -- philthelion at users.sourceforge.net
