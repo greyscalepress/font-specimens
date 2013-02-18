@@ -1,0 +1,136 @@
+FONTLOG
+Andika Basic Regular v 1.0
+==========================
+
+
+This file provides detailed information on the Andika family of fonts.
+This information should be distributed along with the Andika fonts and any derivative works.
+
+
+Basic Font Information
+----------------------
+
+Andika ("Write!" in Swahili) is a sans serif, Unicode-compliant font designed especially for literacy use, taking into account the needs of beginning readers. The focus is on clear, easy-to-perceive letterforms that will not be easily confused with one another. 
+
+A sans serif font is preferred by some literacy personnel for teaching people to read. Its forms are simpler and less cluttered than some serif fonts can be. For years, literacy workers have had to make do with fonts that were available but not really suitable for beginning readers and writers. In some cases, literacy specialists have had to tediously cobble together letters from a variety of fonts in order to get the all of characters they need for their particular language project, resulting in confusing and unattractive publications. Andika addresses those issues.
+
+After receiving many insightful comments on the Design Review fonts, we have refined Andika's final letterforms, with alternate shapes still available for some characters. Andika Basic Regular (italic, bold, and bold italic are yet to come) is here released as the foundation for the Andika font family. 
+
+With the SIL TypeTuner utility (see http://scripts.sil.org/TypeTuner), you can select which alternates to use as Andika's default letterforms.
+
+SIL's "Basic" Roman fonts -- Andika Basic, Gentium Basic, and Gentium  Book Basic -- have a limited character set, supporting only the Basic Latin and Latin-1 Supplement Unicode ranges, plus a selection of the more commonly used extended Latin characters, with miscellaneous diacritical marks, symbols and punctuation. For a complete list of supported characters see the list at the end of this document.
+
+In particular, these fonts do not support:
+   
+   Full extended Latin IPA
+   Complete support for Central European languages
+   Greek
+   Cyrillic
+
+A much more complete character set, comparable to Charis SIL and Doulos SIL, will be supported in a future version of Andika. This "Basic" font is intended to provide an Andika with stable letterforms for both default and alternate glyphs. No need to request additional glyphs or characters to be supported in the Basic fonts - such support will become available in the full font in the future.
+
+
+Features
+--------
+
+As an SIL "Basic" font, Andika Basic has:
+   OpenType and Graphite smart code for diacritic placement
+   A few useful OpenType and Graphite features
+   Support for a few more recent additions to Unicode and the SIL PUA
+   Character assignments are updated to conform to Unicode 5.1
+
+Andika Basic supports a subset of the smart font features that the Doulos SIL font supports. Those features are:
+   Capital Eng alternates
+   Capital N-left-hook alternate
+   Capital Q alternate
+   Capital Y-hook alternate
+   Literacy alternates -- single-story a and g -- as default glyphs
+   Lower case j alternate
+   Lower case dotless j alternate
+   Lower case q alternate
+   Lower case y-hook alternate
+   Modifier apostrophe alternate
+   Modifier colon alternate
+   No-tail t and y alternates
+   Numeral 0 1 4 6 7 9 alternates
+   Open O -- both upper and lower case -- alternates
+   Tail i and l alternates
+   Vietnamese-style diacritics
+
+More detail on features can be seen at http://scripts.sil.org/SILUnicodeRF_Features and http://scripts.sil.org/DoulosSIL_Technical. 
+
+
+ChangeLog
+----------
+(This should list both major and minor changes, most recent first.)
+
+2 May 2008 (SIL NRSI team) Andika Basic Regular version 1.0 
+- Released under SIL Open Font License.
+
+19 January 2007 (SIL NRSI team) Andika Design Review version 0.001 
+- Released under Open Font License. Five new fonts containing revisions of some glyphs and different combinations of others. 
+
+7 Aug 2006 (SIL NRSI team) Andika Design Review version 0.001 
+- Released under Open Font License.
+
+
+Acknowledgements
+-----------------
+(Here is where contributors can be acknowledged. If you make modifications
+be sure to add your name (N), email (E), web-address (W) and description
+(D). This list is sorted by last name in alphabetical order.)
+
+N: Victor Gaultney, Annie Olsen, Julie Remington
+E: <fonts AT sil DOT org>
+W: http://scripts.sil.org
+D: SIL designers and font engineers
+SIL will remain as maintainers of this font project, but we do not intend any further major releases. Our primary efforts will be going into the full Andika package. Any contributions should be directed toward that project.
+
+For more information please visit the Andika page on SIL International's Computers and Writing Systems website:
+http://scripts.sil.org/andika
+
+Or send an e-mail to <andika AT sil DOT org>
+
+
+Supported Characters in Andika Basic
+--------------------------------------------
+
+C0 Controls and Basic Latin   U+0020-U+007F
+
+C1 Controls and Latin-1 Supplement   U+00A0-U+00FF
+
+Latin Extended-A   U+0100..U+0103, U+0106..U+010E, U+011A..U+0121, U+0124..U+0125, U+0128..U+012D, U+0130..U+0133, U+0139..U+013A, U+0141..U+0144, U+0147..U+0148, U+014A..U+0155, U+0158..U+015D, U+0160..U+0161, U+0164, U+0168..U+0171, U+00174..U+017E
+
+Latin Extended-B   U+0181, U+0186, U+0189..U+018A, U+018E, U+0190, U+0192, U+0197..U+019A, U+019D, U+019F..U+01A1, U+01A9..U+01AA, U+01AF..U+01B0, U+01B3..U+01B4, U+01B7, U+01CD..U+01E3, U+01E6..U+01E9, U+01EE..U+01EF, U+01F4..U+01F5, U+01F8..U+01FF, U+021E..U+021F, U+0226..U+0233, U+0237, U+023D, U+0241..U+0242, U+0244..U+0245, U+024A..U+024B
+
+IPA Extensions   U+0251, U+0253..U+0254, U+0256..U+0257, U+0259, U+025B, U+0263, U+0268..U+0269, U+026B, U+0272, U+0275, U+0283, U+0289..U+028A, U+028C, U+0292, U+0294, U+02A0
+
+Spacing Modifier Letters   U+02BC, U+02C0, U+02C6..U+02C7, U+02C9..U+02CB, U+02CD, U+02D7..U+02DD
+
+Combining Diacritical Marks   U+0300..U+0304,U+0306..U+030C, U+031B, U+0323, U+0327..U+0328, U+0331, U+033F, U+035F
+
+Greek and Coptic   U+03A0, U+03A9, U+03C0
+
+Latin Extended Additional   U+1E02..U+1E0F, U+1E14..U+1E17, U+1E1C..U+1E27, U+1E2E..U+1E3B, U+1E3E..U+1E49, U+1E4C..U+1E6F, U+1E78..U+1E99, U+1EA0..U+1EF9
+
+General Punctuation   U+2011, U+2013..U+2014, U+2018..U+201A, U+201C..U+201E, U+2020..U+2022, U+2026, U+2030, U+2039..U+203A, U+2044
+
+Currency Symbols   U+20AC
+
+Letterlike Symbols   U+2122..U+2123, U+2126
+
+Mathematical Operators   U+2202, U+2205..U+2206, U+220F, U+2211..U+2212, U+2219..U+221A, U+221E, U+222B, U+2248, U+2260, U+2264..U+2265
+
+Geometric Shapes   U+25CA, U+25CC
+
+Latin Extended-C   U+2C60..U+2C62
+
+Modifier Tone Letters   U+A700..U+A71A
+
+Latin Extended-D   U+A789..U+A78C
+
+Alphabetic Presentation Forms   U+FB01..U+FB02
+
+SIL PUA   U+F130..U+F131, U+F195, U+F197, U+F1C8, U+F1E9..U+F1EA, U+F20E..U+F20F, U+F211..U+F212, U+F218..U+F219, U+F21D..U+F21F, U+F242, U+F26A
+
+Note: All of the SIL PUA characters listed above (except U+F130 and U+F131) have now been accepted into the Unicode Standard. They are therefore double-encoded in Andika Basic, allowing previously-entered data to still display correctly.
