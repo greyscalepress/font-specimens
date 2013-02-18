@@ -36,3 +36,4 @@ Thumbs.db
 # Temporary files #
 ###################
 *.autosave
+.sparkleshare
