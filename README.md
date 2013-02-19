@@ -23,7 +23,7 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 
 ## License
 
-To be defined yet :) 
+This book as a whole is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA) license. The fonts are under their respective licences. The sample text (L'Eve Future by comte de Auguste Villiers de L'Isle-Adam) is in the public domain.
 
 ## Links
 
