@@ -25,6 +25,16 @@ Selecting the appropriate font for any project requires testing, and to evaluate
 
 This book as a whole is licensed under the Creative Commons Attribution ShareAlike (CC-BY-SA) license. The fonts are under their respective licences. The sample text (L'Eve Future by comte de Auguste Villiers de L'Isle-Adam) is in the public domain.
 
+## Editor
+Greyscale Press
+Rue du Roc 8
+2000 Neuchâtel
+
+ISBN: 978-2-9700706-8-9
+
 ## Links
 
-Statement of intent: http://greyscalepress.com/2012/news/open-source-font-specimens/
+* Statement of intent: http://greyscalepress.com/2012/news/open-source-font-specimens/
+* Press release: http://greyscalepress.com/?p=1581
+* Twitter: https://twitter.com/TypoLibre
+* Facebook Account: https://www.facebook.com/pages/Typo-Libre/130571240449529
