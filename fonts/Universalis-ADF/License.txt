@@ -1,4 +1,0 @@
-Designers: HARENDAL Hirwen 
-Copyright: Copyright (c) Arkandis Digital Foundry under the GNU General Public License V2 and later with font exception.
-Notes: Cette collection de polices a été conçue suite à une initiative d'utilisateurs de la ML de scribus et destinée à servir d'alternative à la police de caractère Futura.
-URL: http://arkandis.tuxfamily.org/adffonts.html
