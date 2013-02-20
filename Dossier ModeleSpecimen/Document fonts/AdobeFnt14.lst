@@ -17,7 +17,7 @@ WritingScript:Roman
 OutlineFileName:\Chivo-Black.ttf
 DataFormat:sfntData
 FileLength:55128
-FileModTime:1327315690
+FileModTime:1361374639
 %EndFont
 
 %BeginFont
@@ -36,7 +36,7 @@ WritingScript:Roman
 OutlineFileName:\Chivo-BlackItalic.ttf
 DataFormat:sfntData
 FileLength:32300
-FileModTime:1327315852
+FileModTime:1361374639
 %EndFont
 
 %BeginFont
@@ -55,7 +55,7 @@ WritingScript:Roman
 OutlineFileName:\Chivo-Italic.ttf
 DataFormat:sfntData
 FileLength:30840
-FileModTime:1327315920
+FileModTime:1361374639
 %EndFont
 
 %BeginFont
@@ -74,7 +74,7 @@ WritingScript:Roman
 OutlineFileName:\Chivo-Regular.ttf
 DataFormat:sfntData
 FileLength:50844
-FileModTime:1327315692
+FileModTime:1361374639
 %EndFont
 
 %BeginFont
@@ -95,7 +95,7 @@ DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 FileLength:217280
-FileModTime:1349361133
+FileModTime:1361374639
 DesignSize:110
 %EndFont
 
