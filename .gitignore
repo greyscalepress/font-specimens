@@ -38,3 +38,8 @@ Thumbs.db
 *.autosave
 .sparkleshare
 .~lock.*
+*.idlk
+
+*.lst
+
+*.lst
