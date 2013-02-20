@@ -1,0 +1,4 @@
+Designers: HARENDAL Hirwen 
+Copyright: Copyright (c) Arkandis Digital Foundry under the GNU General Public License V2 and later with font exception.
+Notes: Peut servir d'alternative au Times New Roman et autres polices similaires.
+URL: http://arkandis.tuxfamily.org/adffonts.html

@@ -1,0 +1,96 @@
+# 2010-12-15 DC/RL needs vertical metrics of subsets checked
+payment: POOL
+url: http://www.droidfonts.com
+designer: Steve Matteson
+license: Apache2
+# 2010-12-11 DC unused subsets: arabic,hebrew,japanese,thai
+subsets: menu,latin,latin-ext,cyrillic+latin,cyrillic-ext+latin,vietnamese+latin,greek+latin,greek-ext+latin
+
+font.DroidSans-Regular.ttf.description: <p>Droid Sans is a humanist sans serif typeface designed \
+  by Steve Matteson, Type Director of <a href="http://ascendercorp.com">Ascender Corp</a>. \
+  Droid Sans was designed with an upright stress, open forms and a neutral, yet friendly \
+  appearance. Droid Sans was optimized for user interfaces and to be comfortable for reading \
+  on a mobile handset in menus, web browser and other screen text.</p> \
+  <p>More information on the Droid Fonts can be found at \
+  <a href="http://www.droidfonts.com">http://www.droidfonts.com</a>.</p>
+font.DroidSans-Regular.ttf.category: sans-serif
+
+font.DroidSans-Bold.ttf.description: N/A
+font.DroidSans-Bold.ttf.category: sans-serif
+
+
+
+font.DroidSansMono-Regular.ttf.description: <p>Droid Sans Mono is a fixed width version of Droid Sans. \
+  The Droid Sans Mono typefaces were designed by Steve Matteson of \
+  <a href="http://ascendercorp.com">Ascender Corp</a>. The Droid Sans Mono fonts feature \
+  non-proportional spacing for displaying text in a tabular setting and other uses where a \
+  monospaced font is desired. Droid Sans Mono has excellent legibility characteristics in its \
+  letterforms. \
+  <p>More information on the Droid Fonts can be found at \
+  <a href="http://www.droidfonts.com">http://www.droidfonts.com</a>.</p>
+font.DroidSansMono-Regular.ttf.category: sans-serif
+
+
+font.DroidSerif-Regular.ttf.description: <p>The Droid Serif font family \
+  features a contemporary appearance and was designed for comfortable reading \
+  on screen. Designed by Steve Matteson, Type Director of Ascender Corp, \
+  Droid Serif features slightly condensed letterforms to maximize the amount \
+  of text displayed on small screens. Vertical stress, sturdy serifs and open \
+  forms contribute to the readability of Droid Serif while its proportion and \
+  overall design complement its companion Droid Sans. Droid Serif family has \
+  four fonts: Regular, Italic, Bold & Bold Italic.</p><p>More information on the \
+  Droid Fonts can be found at \
+  <a href="http://www.droidfonts.com">droidfonts.com</a>.</p>
+font.DroidSerif-Regular.ttf.category: serif
+
+font.DroidSerif-Italic.ttf.description: N/A
+font.DroidSerif-Italic.ttf.category: serif
+
+font.DroidSerif-Bold.ttf.description: N/A
+font.DroidSerif-Bold.ttf.category: serif
+
+font.DroidSerif-BoldItalic.ttf.description: N/A
+font.DroidSerif-BoldItalic.ttf.category: serif
+
+# 2010-11-16 DC TODO descriptions for these when ready
+# DroidSans-Regular.arabic
+# DroidSans-Regular.thai
+# DroidSans-Regular.hebrew
+# DroidSans-Regular.japanese
+
+# font-optimizer$ ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="DroidSans PrКаилрцΕάεηικλνQuốcNgữ()" \
+#     DroidSans-Regular.ttf DroidSerif-Regular.menu
+#
+# font-optimizer$ ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="DroidSansM PrКаилрцΕάεηικλνQuốcNgữ()" \
+#     DroidSansMono-Regular.ttf DroidSerif-Regular.menu
+#
+# font-optimizer$ ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="DroidSerf PrКаилрцΕάεηικλνQuốcNgữ()" \
+#     DroidSerif-Regular.ttf DroidSerif-Regular.menu
+
+# for family in droid; do
+#    for font in `ls -1 $family/Droid*ttf | cut -d. -f1`; do
+#        for subset in \
+#            latin latin-ext \
+#            cyrillic+latin cyrillic-ext+latin \
+#            vietnamese+latin \
+#            greek+latin greek-ext+latin; do
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset;
+#            python tools/subset/subset.py --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log;
+#        done;
+#    done;
+# done;
+
+# for font in `ls -1 droid/Droid*`; do
+#     fontaine -T $font > $font.txt;
+# done;
+# cd droid;
+# rm `ls -l | grep " 0 " | cut -d" " -f 15`;
+# rm *menu.txt;
