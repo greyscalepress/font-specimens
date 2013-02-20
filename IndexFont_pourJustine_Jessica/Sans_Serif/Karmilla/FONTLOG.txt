@@ -1,0 +1,59 @@
+FONTLOG for the Karmilla font
+
+This file provides detailed information on Karmilla Font Software.
+This information should be distributed along with the Karmilla 
+font and any derivative works.
+
+Basic Font Information
+
+Karmilla is a modified version of Karla, a Unicode grotesque sans serif 
+typeface family that supports languages that use the Latin script and 
+the Tamil script. This is the Latin script subset of the family.
+
+The aim of Karmilla is to optimize Karla for the support of the French
+language, which requires adding and modifiying some glyphs.
+
+To contribute to Karmilla contact Greyscale Press
+@greyscalepress
+
+To contribute to Karla contact Jonathan Pinhorn
+@jonpinhorn_type
+
+ChangeLog
+
+12 October 2012 (ms-studio) Karmilla v.008
+- Added slavic š, ć and ž in order to accomodate Greyscale Press website. Used existing Karla diacritics (turning the ^ upside down).
+
+7 October 2012 (ms-studio) Karmilla v.007
+- Inspired by a tweet from Olov Källgarn (@mc68ec040), I started adding å, æ and ø for Scandinavian languages.
+
+28 September 2012 (ms-studio) Karmilla v.006
+- Still not convinced by the cedilla. Copy-pasted the cedilla from Arimo (Regular and Bold),
+a clean sans-serif font by Steve Matteson. I think this one works fine with Karla.
+
+11 September 2012 (ms-studio) Karmilla v.005
+- Not convinced by the hand drawn cedilla. Copy-pasted the cedilla from Inconsolata 
+(Regular and Bold), a beautiful monospaced font by Raph Levien.
+
+14 August 2012 (ms-studio) Karmilla v.004
+- Added a hand drawn ç (cedilla) to Regular (U+00E7)
+- Added œ (ligature of o and e) to Regular (U+0153)
+- Streamlined the q character.
+- Changed the position of apostrophe (aligned on l) (U+2019)
+
+11 March 2012 (Jonathan Pinhorn) Karla v1.000
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Jonathan Pinhorn
+E: pinhorn.typedesign@gmail.com
+D: Designer
+
+N: Manuel Schmalstieg
+E: @greyscalepress
+D: Modifier of some glyphs

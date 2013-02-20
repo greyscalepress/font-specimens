@@ -1,0 +1,35 @@
+@font-face {
+font-family: 'LSRegular';
+src: url('lsregular-webfont.eot');
+src: local('☺'), url('lsregular-webfont.eot?#iefix') format('embedded-opentype'),url('lsregular-webfont.woff') format('woff'),url('lsregular-webfont.ttf') format('truetype'),url('lsregular-webfont.svg#LSRegular') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'LSLight';
+src: url('lslight-webfont.eot');
+src: local('☺'), url('lslight-webfont.eot?#iefix') format('embedded-opentype'),url('lslight-webfont.woff') format('woff'),url('lslight-webfont.ttf') format('truetype'),url('lslight-webfont.svg#LSLight') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'LSBold';
+src: url('lsbold-webfont.eot');
+src: local('☺'), url('lsbold-webfont.eot?#iefix') format('embedded-opentype'),url('lsbold-webfont.woff') format('woff'),url('lsbold-webfont.ttf') format('truetype'),url('lsbold-webfont.svg#LSBold') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'LSRegularAlt';
+src: url('lsregularalt-webfont.eot');
+src: local('☺'), url('lsregularalt-webfont.eot?#iefix') format('embedded-opentype'),url('lsregularalt-webfont.woff') format('woff'),url('lsregularalt-webfont.ttf') format('truetype'),url('lsregularalt-webfont.svg#LSRegularAlt') format('svg');
+font-weight: normal;
+font-style: normal;}
+
+@font-face {
+font-family: 'LSLightAlt';
+src: url('lslightalt-webfont.eot');
+src: local('☺'), url('lslightalt-webfont.eot?#iefix') format('embedded-opentype'),url('lslightalt-webfont.woff') format('woff'),url('lslightalt-webfont.ttf') format('truetype'),url('lslightalt-webfont.svg#LSLightAlt') format('svg');
+font-weight: normal;
+font-style: normal;}
+

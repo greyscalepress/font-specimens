@@ -1,0 +1,107 @@
+This is the FONTLOG file for the 'Consola Mono'.
+
+
+This file provides detailed information on the 'Consola Mono' Font Software.
+This information should be distributed along with the 'Consola Mono' fonts
+and any derivative works.
+
+
+Basic Font Information
+
+'Consola Mono' is the monospace font especially created for programming,
+text editors and for terminal-use.
+
+'Consola Mono' font you'll find at: http://openfontlibrary.org.
+
+'Consola Mono' is created with FontForge.
+
+'Consola Mono' is a Unicode typeface font that supports all languages that
+use the Latin, Greek, Cyrillic script and its variants, and could be expanded
+to support other scripts.
+
+More specifically, this release supports the following Unicode ranges:
+
+ - Controls and Basic Latin - 0000-007F (all)
+
+ - Latin 1 Supplement And Controls - 00A0-00FF (all)
+
+ - Latin Extended A - 0100-017F (all)
+
+ - Latin Extended B - 0180-024F (all)
+
+ - IPA Extensions - 0250-02AF (all)
+
+ - Spacing Modifier Letters - 02C6, 02C7, 02C9, 02D8-02DD, 02F3, 0300-0304,
+                              0306-030C, 030F, 0311, 0316, 0317, 0323-0328,
+                              032D-032F, 0330, 0331
+
+ - Greek and Coptic - 0370-03FF (all)
+
+ - Cyrillic - 0400-04FF (all)
+
+ - Cyrillic Supplement - 0500-052F (all)
+
+ - Latin Extended Additional - 1E00-1EFF (all)
+
+ - General Punctuation - 2010-2027, 2030-2037, 2039, 2040, 203C-203E, 2043-2049,
+                         204E
+
+ - Superscripts and Subscripts - 2070-209F (all)
+
+ - Currency Symbols - 20A3, 20A4, 20A7, 20AC
+
+ - Letterlike Symbols - 2105, 2113, 2116, 2117, 2122, 2126, 212e
+
+ - Number Forms - 2153-215F
+
+ - Mathematical Operators - 2202, 2206, 220F, 2211, 2212, 2215, 2217-221C, 221E,
+                            222B, 2248, 2260, 2261, 2264, 2265
+
+ - Geometric Shapes - 25CA
+
+ - Ligatures - FB00-FB06 (all)
+
+ - Specials - FEFF, FFFC, FFFD
+
+
+This release contains:
+
+ - ConsolaMono.ttf
+ - ConsolaMono.sfd
+ - FONTLOG.txt
+ - SIL - OpenFont License.txt - official license text
+ - ConsolaMono.pdf - demo
+
+
+ChangeLog
+
+22 Sep 2011 wmk69 (wmk69@o2.pl) 'Consola Mono' Version 2.000
+- all glyphs redesigned - I did all glyphs more rounded
+- fixed some issues with metadata
+- made all missing glyphs for IPA Extensions
+- added some glyphs for Spacing Modified Letters
+
+16 Jun 2011 wmk69 (wmk69@o2.pl) 'Consola Mono' Version 1.1
+- Changed shape of "f","t", and all glyphs based on these letters
+  (ligatures too).
+- made all missing glyphs for Latin Extended B, Cyrillic, Cyrillic Supplement.
+
+10 Jun 2011 wmk69 (wmk69@o2.pl) 'Consola Mono' Version 1.000
+- Initial release
+
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(if you have one) (W) and description (D).
+
+
+History
+
+It's my old unfinnished font. I made some sketches of several glyphs 5-6 years
+ago, and I never finnished this. Now I made missing glyphs, did changes of some
+glyphs and turn into monospaced font.
+
+
+10 Jun 2011 wmk69 (wmk69@o2.pl)
+

@@ -1,0 +1,92 @@
+AndikaBasicR-FAQ-KI
+Andika Basic Regular v 1.0
+==========================
+
+Where does the name "Andika" come from?
+
+   Andika -- pronounced ahn-DEE-kah
+   Swahili -- spoken widely in southeastern regions of the African continent,
+       among other places. (See http://www.ethnologue.com/)
+   Meaning - "Write!"
+
+What characters are included in this release?
+
+   Andika Basic covers some 630 commonly-used (in the SIL world) Roman
+   characters. See http://scripts.sil.org/Andika_technical for the full listing.
+
+What are all the stages of release for the Andika fonts?
+
+   Andika Design Review -- completed
+   Andika Basic -- where we are now
+   Andika Regular
+   Andika Basic Bold, Basic Italic, and Basic Bold Italic
+   Andika Bold, Italic, and Bold Italic
+
+Why is the line spacing so much looser than other fonts?
+
+   Our SIL Unicode Roman fonts include characters with multiple stacked
+   diacritics that need a much looser line spacing (for example, U+1EA8 LATIN
+   CAPITAL LETTER A WITH CIRCUMFLEX AND HOOK ABOVE). We cannot make the line
+   spacing tighter without experiencing “clipping” of those characters. You may
+   be able to overcome this by adjusting the line spacing in the application.
+   For example, in Microsoft Word select Format / Paragraph and set the line
+   spacing to use the Exactly setting and a value more suited to your needs.
+   For example, if the font size is 12 pt, select line spacing of Exactly 13 pt.
+   This will give a tighter line spacing. You can adjust the value up or down
+   depending on how many diacritics you need to stack. Another solution would
+   be to use SIL’s TypeTuner utility, which allows choosing a line spacing
+   setting as well as choosing default glyphs.
+
+Does this font have straight quotes as well as curly ones?
+
+   Yes, there are both. Here are the Unicode codepoints (in order) and their
+   character names included in this font:
+   
+       U+0022   QUOTATION MARK
+       U+0027   APOSTROPHE
+       U+2018   LEFT SINGLE QUOTATION MARK
+       U+2019   RIGHT SINGLE QUOTATION MARK
+       U+201C   LEFT DOUBLE QUOTATION MARK
+       U+201D   RIGHT DOUBLE QUOTATION MARK
+
+Can I use Andika in my print publication?
+
+   Andika Basic is released under the SIL Open Font License
+   (see http://scripts.sil.org/OFL), which permits use for any publication,
+   whether electronic or printed. For more answers to usage questions, see the
+   OFL-FAQ (http://scripts.sil.org/OFL-FAQ). The license, along with
+   information specific to Andika Basic, is in the release package.
+
+Can I use Andika on my website?
+
+   Yes. You can create web pages that request that Andika Basic be used to
+   display them (if that font is available on the user’s system). According to
+   the license, you are even allowed to place the font on your site for people
+   to download it. We would strongly recommend, however, that you direct users
+   to our site -- http://scripts.sil.org/Andika_download — to download the
+   font. This ensures that they are always using the most recent version with
+   bug fixes, etc.
+
+Can I make changes to Andika?
+
+   Yes! That is allowed as long as you abide by the conditions of the SIL Open 
+   Font License (http://scripts.sil.org/OFL). We would be very interested in
+   seeing any changes you might make. See "Notes to contributors"
+   (http://scripts.sil.org/Andika_download) for more information.
+
+Known Issues
+
+   We know of the following problems. Please report any others you encounter:
+   
+   There has been no manual hinting done, but we have improved the overall
+   autohinting parameters. Still, onscreen display may at times be somewhat
+   distorted. Please evaluate the letterforms from printed text, but let us
+   know if you find severe distortions. In any case, the fonts should look
+   fine when printed.
+   
+   Opening the font with FontLab 5.0.x, then closing it, crashes FontLab.
+   We are working to get this bug fixed in the next version of FontLab.
+   A workaround is to open the font, save as a .vfb file, close (which
+   still causes a crash). Then restart FontLab and open the .vfb file.
+   
+   There are no alternate versions of fi and fl ligatures at this time.
