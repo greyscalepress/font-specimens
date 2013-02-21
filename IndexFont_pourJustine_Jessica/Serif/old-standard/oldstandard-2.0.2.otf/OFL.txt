@@ -1,6 +1,6 @@
-Copyright (c) 2004, George Triantafyllakos (http://www.backpacker.gr),
-with BPreplay.
-Copyright (c) 2004, Magenta (http://www.magenta.gr).
+Copyright (c) 2006-2008, Alexey Kryukov 
+(<http://www.thessalonica.org.ru|alexios@thessalonica.org.ru>).
+All rights reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
