@@ -1,0 +1,142 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : ModeleSpecimen.indd
+
+DATE D'ASSEMBLAGE : 20.02.13 22:01
+Date de création : 20.02.13
+Date de modification : 20.02.13
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Sans
+
+POLICES
+41 Police(s) utilisée(s); 8 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : Chivo-Black; Type : OpenType TrueType, Etat : OK
+- Nom : Chivo-BlackItalic; Type : TrueType, Etat : OK
+- Nom : Chivo-Italic; Type : TrueType, Etat : OK
+- Nom : Chivo-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Courier (T1) Medium; Type : ???, Etat : Manquant(e)(s)
+- Nom : Courier (T1) Oblique; Type : ???, Etat : Manquant(e)(s)
+- Nom : GeosansLight; Type : TrueType, Etat : OK
+- Nom : GeosansLight Bold; Type : ???, Etat : Manquant(e)(s)
+- Nom : GeosansLight Italic; Type : ???, Etat : Manquant(e)(s)
+- Nom : GeosansLight Oblique; Type : ???, Etat : Manquant(e)(s)
+- Nom : GeosansLight-Oblique; Type : TrueType, Etat : OK
+- Nom : LMRoman8-Bold; Type : TrueType, Etat : OK
+- Nom : LMRoman8-Italic; Type : TrueType, Etat : OK
+- Nom : LMRoman8-Oblique; Type : TrueType, Etat : OK
+- Nom : LMRoman8-Regular; Type : TrueType, Etat : OK
+- Nom : Lato-Black; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-BlackItalic; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Bold; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-BoldItalic; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Hairline; Type : TrueType, Etat : OK
+- Nom : Lato-HairlineItalic; Type : TrueType, Etat : OK
+- Nom : Lato-Italic; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Italic; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Light; Type : TrueType, Etat : OK
+- Nom : Lato-LightItalic; Type : TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : Lato-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : LuxiMono; Type : TrueType, Etat : OK
+- Nom : LuxiMono-Bold; Type : TrueType, Etat : OK
+- Nom : LuxiMono-Oblique; Type : TrueType, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+- Nom : Times (T1) Bold; Type : ???, Etat : Manquant(e)(s)
+- Nom : Times (T1) Italic; Type : ???, Etat : Manquant(e)(s)
+- Nom : Times (T1) Roman; Type : ???, Etat : Manquant(e)(s)
+
+
+COULEURS ET ENCRES
+1 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 212.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 0 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Images : 0 Incorporé(e)(s), 0 utilisant l'espace colorimétrique RVB
+
+PARAMETRES D'IMPRESSION
+PPD : HP LaserJet 5200, (En12-CV1-hp5200-006153)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Oui
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 160 mm x 295 mm
+Dimensions du papier : 297.039 mm x 420.158 mm
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. ModeleSpecimen.indd; type : Composition Adobe InDesign; taille : 4536K
+2. Chivo-Black.ttf; type : Fichier de polices; taille : 53K
+3. Chivo-BlackItalic.ttf; type : Fichier de polices; taille : 31K
+4. Chivo-Italic.ttf; type : Fichier de polices; taille : 30K
+5. Chivo-Regular.ttf; type : Fichier de polices; taille : 49K
+6. GeosansLight.ttf; type : Fichier de polices; taille : 58K
+7. GeosansLight-Oblique.ttf; type : Fichier de polices; taille : 60K
+8. lmroman8-bold.ttf; type : Fichier de polices; taille : 115K
+9. lmroman8-italic.ttf; type : Fichier de polices; taille : 154K
+10. lmroman8-oblique.ttf; type : Fichier de polices; taille : 127K
+11. lmroman8-regular.ttf; type : Fichier de polices; taille : 118K
+12. Lato-Black.ttf; type : Fichier de polices; taille : 111K
+13. Lato-BlackItalic.ttf; type : Fichier de polices; taille : 109K
+14. Lato-Bold.ttf; type : Fichier de polices; taille : 118K
+15. Lato-BoldItalic.ttf; type : Fichier de polices; taille : 117K
+16. Lato-Hairline.ttf; type : Fichier de polices; taille : 112K
+17. Lato-HairlineItalic.ttf; type : Fichier de polices; taille : 89K
+18. Lato-Italic.ttf; type : Fichier de polices; taille : 115K
+19. Lato-Light.ttf; type : Fichier de polices; taille : 119K
+20. Lato-LightItalic.ttf; type : Fichier de polices; taille : 89K
+21. Lato-Regular.ttf; type : Fichier de polices; taille : 117K
+22. luximr.ttf; type : Fichier de polices; taille : 70K
+23. luximb.ttf; type : Fichier de polices; taille : 72K
+24. luximri.ttf; type : Fichier de polices; taille : 67K
+25. MinionPro-Regular.otf; type : Fichier de polices; taille : 212K
