@@ -1,0 +1,1 @@
+Caliban is a TrueType Unicode font, developed by George Williams. It is available free, under BSD-like license or SIL Open Font License.
