@@ -1,0 +1,48 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in "Tuffy Каилрц Εάεηικλν()", and also the ligatures needed
+# 
+# fontforge -lang=ff -script menusubset-tuffy.ff Tuffy-Regular.ttf; \
+# mv Tuffy-Regular.{ttf.menu.ttf,menu}; \
+# ~/googlefontdirectory/tools/chars/showchars.py Tuffy-Regular.menu; \
+
+Open($1)
+Select(0u0000) # null
+SelectMore(0u000D) # nonmarkingreturn
+SelectMore(0u0020) # space
+SelectMore(0u0028) # parenleft
+SelectMore(0u0029) # parenright
+SelectMore(0u0054) # T
+SelectMore(0u0066) # f
+SelectMore(0u0075) # u
+SelectMore(0u0079) # y
+SelectMore(0u0138) # kgreenlandic
+SelectMore(0u041A) # afii10028 cyrillic
+SelectMore(0u0430) # afii10065 cyrillic
+SelectMore(0u0438) # afii10074 cyrillic
+SelectMore(0u043B) # afii10077 cyrillic
+SelectMore(0u0440) # afii10082 cyrillic
+SelectMore(0u0446) # afii10088 cyrillic
+SelectMore(0u0384) # tonos
+SelectMore(0u0395) # Epsilon
+SelectMore(0u03B1) # alpha
+SelectMore(0u03AC) # alphatonos
+SelectMore(0u03B5) # epsilon
+SelectMore(0u03B7) # eta
+SelectMore(0u03B9) # iota
+SelectMore(0u03BA) # kappa
+SelectMore(0u03BB) # lambda
+SelectMore(0u03BD) # nu
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")
+
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Tuffy" \
+# ~/googlefontdirectory/tuffy/Tuffy-Regular.{ttf,menu}; \
+# cd ~/googlefontdirectory/tuffy/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  Tuffy-Regular.menu; \
