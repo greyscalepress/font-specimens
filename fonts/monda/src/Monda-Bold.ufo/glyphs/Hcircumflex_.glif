@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hcircumflex" format="1">
+  <advance width="1672"/>
+  <unicode hex="0124"/>
+  <outline>
+    <contour>
+      <point x="526.5" y="1664" type="line"/>
+      <point x="706.5" y="1664" type="line"/>
+      <point x="842.5" y="1839" type="line"/>
+      <point x="970.5" y="1664" type="line"/>
+      <point x="1145.5" y="1664" type="line"/>
+      <point x="923.5" y="1964" type="line"/>
+      <point x="760.5" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.0" y="0" type="line"/>
+      <point x="513.0" y="0" type="line"/>
+      <point x="513.0" y="615" type="line"/>
+      <point x="1159.0" y="615" type="line"/>
+      <point x="1159.0" y="0" type="line"/>
+      <point x="1456.0" y="0" type="line"/>
+      <point x="1456.0" y="1476" type="line"/>
+      <point x="1159.0" y="1476" type="line"/>
+      <point x="1159.0" y="848" type="line"/>
+      <point x="513.0" y="848" type="line"/>
+      <point x="513.0" y="1476" type="line"/>
+      <point x="216.0" y="1476" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Hcircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1672</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

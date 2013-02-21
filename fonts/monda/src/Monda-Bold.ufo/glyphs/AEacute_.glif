@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="1">
+  <advance width="1834"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="822" y="1664" type="line"/>
+      <point x="971" y="1664" type="line"/>
+      <point x="1204" y="2029" type="line"/>
+      <point x="936" y="2029" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="0" type="line"/>
+      <point x="472" y="281" type="line"/>
+      <point x="893" y="281" type="line"/>
+      <point x="893" y="0" type="line"/>
+      <point x="1710" y="0" type="line"/>
+      <point x="1710" y="227" type="line"/>
+      <point x="1173" y="227" type="line"/>
+      <point x="1173" y="645" type="line"/>
+      <point x="1630" y="645" type="line"/>
+      <point x="1630" y="858" type="line"/>
+      <point x="1173" y="858" type="line"/>
+      <point x="1173" y="1249" type="line"/>
+      <point x="1700" y="1249" type="line"/>
+      <point x="1700" y="1477" type="line"/>
+      <point x="539" y="1477" type="line"/>
+      <point x="83" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="527" y="477" type="line"/>
+      <point x="757" y="1249" type="line"/>
+      <point x="893" y="1249" type="line"/>
+      <point x="893" y="477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AEacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1834</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="1">
+  <advance width="872"/>
+  <unicode hex="0155"/>
+  <outline>
+    <contour>
+      <point x="409.5" y="1260" type="line"/>
+      <point x="558.5" y="1260" type="line"/>
+      <point x="791.5" y="1625" type="line"/>
+      <point x="523.5" y="1625" type="line"/>
+    </contour>
+    <contour>
+      <point x="158.0" y="0" type="line"/>
+      <point x="431.0" y="0" type="line"/>
+      <point x="431.0" y="741" type="line"/>
+      <point x="452.0" y="827"/>
+      <point x="666.0" y="857"/>
+      <point x="804.0" y="864" type="curve"/>
+      <point x="810.0" y="1090" type="line"/>
+      <point x="720.0" y="1100"/>
+      <point x="482.0" y="1045"/>
+      <point x="431.0" y="946" type="curve"/>
+      <point x="431.0" y="1074" type="line"/>
+      <point x="158.0" y="1074" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>racute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>872</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

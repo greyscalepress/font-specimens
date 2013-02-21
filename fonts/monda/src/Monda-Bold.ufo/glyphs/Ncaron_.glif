@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncaron" format="1">
+  <advance width="1682"/>
+  <unicode hex="0147"/>
+  <outline>
+    <contour>
+      <point x="753.5" y="1664" type="line"/>
+      <point x="916.5" y="1664" type="line"/>
+      <point x="1150.5" y="1964" type="line"/>
+      <point x="970.5" y="1964" type="line"/>
+      <point x="834.5" y="1789" type="line"/>
+      <point x="706.5" y="1964" type="line"/>
+      <point x="531.5" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="212.0" y="0" type="line"/>
+      <point x="481.0" y="0" type="line"/>
+      <point x="481.0" y="996" type="line"/>
+      <point x="1245.0" y="0" type="line"/>
+      <point x="1470.0" y="0" type="line"/>
+      <point x="1470.0" y="1477" type="line"/>
+      <point x="1204.0" y="1477" type="line"/>
+      <point x="1204.0" y="464" type="line"/>
+      <point x="437.0" y="1477" type="line"/>
+      <point x="212.0" y="1477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ncaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1682</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="1209"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="540.5" y="1664" type="line"/>
+      <point x="689.5" y="1664" type="line"/>
+      <point x="922.5" y="2029" type="line"/>
+      <point x="654.5" y="2029" type="line"/>
+    </contour>
+    <contour>
+      <point x="137.0" y="0" type="line"/>
+      <point x="1093.0" y="0" type="line"/>
+      <point x="1093.0" y="194" type="line"/>
+      <point x="458.0" y="194" type="line"/>
+      <point x="1081.0" y="1297" type="line"/>
+      <point x="1081.0" y="1476" type="line"/>
+      <point x="164.0" y="1476" type="line"/>
+      <point x="164.0" y="1281" type="line"/>
+      <point x="758.0" y="1281" type="line"/>
+      <point x="137.0" y="177" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Zacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1209</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2215" format="1">
+  <advance width="919"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="106" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+      <point x="918" y="1516" type="line"/>
+      <point x="675" y="1516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>uni2215</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>919</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

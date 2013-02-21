@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="1">
+  <advance width="1568"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="716.5" y="1664" type="line"/>
+      <point x="879.5" y="1664" type="line"/>
+      <point x="1113.5" y="1964" type="line"/>
+      <point x="933.5" y="1964" type="line"/>
+      <point x="797.5" y="1789" type="line"/>
+      <point x="669.5" y="1964" type="line"/>
+      <point x="494.5" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="509.0" y="231" type="line"/>
+      <point x="509.0" y="1245" type="line"/>
+      <point x="827.0" y="1245" type="line" smooth="yes"/>
+      <point x="1033.0" y="1245"/>
+      <point x="1099.0" y="1160"/>
+      <point x="1099.0" y="1000" type="curve" smooth="yes"/>
+      <point x="1099.0" y="470" type="line" smooth="yes"/>
+      <point x="1099.0" y="306"/>
+      <point x="1036.0" y="231"/>
+      <point x="827.0" y="231" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="212.0" y="0" type="line"/>
+      <point x="853.0" y="0" type="line" smooth="yes"/>
+      <point x="1268.0" y="0"/>
+      <point x="1396.0" y="213"/>
+      <point x="1396.0" y="508" type="curve" smooth="yes"/>
+      <point x="1396.0" y="961" type="line" smooth="yes"/>
+      <point x="1396.0" y="1250"/>
+      <point x="1280.0" y="1477"/>
+      <point x="852.0" y="1477" type="curve" smooth="yes"/>
+      <point x="212.0" y="1477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Dcaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1568</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

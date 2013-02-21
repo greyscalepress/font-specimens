@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="1">
+  <advance width="1328"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="277" y="1664" type="line"/>
+      <point x="541" y="1664" type="line"/>
+      <point x="541" y="1897" type="line"/>
+      <point x="277" y="1897" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="1664" type="line"/>
+      <point x="1051" y="1664" type="line"/>
+      <point x="1051" y="1897" type="line"/>
+      <point x="786" y="1897" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+      <point x="815" y="567" type="line"/>
+      <point x="1312" y="1476" type="line"/>
+      <point x="1012" y="1476" type="line"/>
+      <point x="669" y="859" type="line"/>
+      <point x="329" y="1476" type="line"/>
+      <point x="16" y="1476" type="line"/>
+      <point x="519" y="567" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ydieresis</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1328</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

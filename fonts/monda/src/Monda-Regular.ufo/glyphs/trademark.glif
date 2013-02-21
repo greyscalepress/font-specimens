@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1843"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="845" y="766" type="line"/>
+      <point x="845" y="1446" type="line"/>
+      <point x="1043" y="1446" type="line"/>
+      <point x="1227" y="1033" type="line"/>
+      <point x="1413" y="1446" type="line"/>
+      <point x="1609" y="1446" type="line"/>
+      <point x="1609" y="766" type="line"/>
+      <point x="1482" y="766" type="line"/>
+      <point x="1482" y="1329" type="line"/>
+      <point x="1310" y="931" type="line"/>
+      <point x="1149" y="931" type="line"/>
+      <point x="970" y="1329" type="line"/>
+      <point x="970" y="766" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="766" type="line"/>
+      <point x="345" y="1332" type="line"/>
+      <point x="133" y="1332" type="line"/>
+      <point x="133" y="1446" type="line"/>
+      <point x="692" y="1446" type="line"/>
+      <point x="692" y="1332" type="line"/>
+      <point x="480" y="1332" type="line"/>
+      <point x="480" y="766" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="1328"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="589.5" y="1664" type="line"/>
+      <point x="738.5" y="1664" type="line"/>
+      <point x="971.5" y="2029" type="line"/>
+      <point x="703.5" y="2029" type="line"/>
+    </contour>
+    <contour>
+      <point x="519.0" y="0" type="line"/>
+      <point x="815.0" y="0" type="line"/>
+      <point x="815.0" y="567" type="line"/>
+      <point x="1312.0" y="1476" type="line"/>
+      <point x="1012.0" y="1476" type="line"/>
+      <point x="669.0" y="859" type="line"/>
+      <point x="329.0" y="1476" type="line"/>
+      <point x="16.0" y="1476" type="line"/>
+      <point x="519.0" y="567" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Yacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1328</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

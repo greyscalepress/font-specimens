@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="1478"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="794.5" y="-828" type="line"/>
+      <point x="856.5" y="-771"/>
+      <point x="989.5" y="-587"/>
+      <point x="989.5" y="-386" type="curve" smooth="yes"/>
+      <point x="989.5" y="-163" type="line"/>
+      <point x="668.5" y="-163" type="line"/>
+      <point x="668.5" y="-439" type="line"/>
+      <point x="833.5" y="-439" type="line"/>
+      <point x="833.5" y="-577"/>
+      <point x="738.5" y="-723"/>
+      <point x="687.5" y="-781" type="curve"/>
+    </contour>
+    <contour>
+      <point x="212.0" y="0" type="line"/>
+      <point x="509.0" y="0" type="line"/>
+      <point x="509.0" y="541" type="line"/>
+      <point x="648.0" y="679" type="line"/>
+      <point x="1111.0" y="0" type="line"/>
+      <point x="1446.0" y="0" type="line"/>
+      <point x="894.0" y="804" type="line"/>
+      <point x="1409.0" y="1477" type="line"/>
+      <point x="1081.0" y="1477" type="line"/>
+      <point x="1011.0" y="1396"/>
+      <point x="577.0" y="843"/>
+      <point x="509.0" y="760" type="curve"/>
+      <point x="509.0" y="1477" type="line"/>
+      <point x="212.0" y="1477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Kcommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1478</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

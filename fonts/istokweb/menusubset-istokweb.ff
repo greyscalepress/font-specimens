@@ -1,0 +1,32 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in "()Istok Web Каилрц", and also the ligatures needed for correct
+# 
+# fontforge -lang=ff -script menusubset-istokweb.ff IstokWeb-Regular.ttf; \
+# mv IstokWeb-Regular.{ttf.menu.ttf,menu}; \
+# ~/googlefontdirectory/tools/chars/showchars.py IstokWeb-Regular.menu; 
+
+Open($1)
+Select(0u0000) # null
+SelectMore(0x000D) # nonmarkingreturn
+SelectMore(0u0020) # space
+SelectMore(0u0028) # parenleft
+SelectMore(0u0029) # parenright
+SelectMore(0x0049) # I
+SelectMore(0x006B) # k
+SelectMore(0x006F) # o
+SelectMore(0x0073) # s
+SelectMore(0x0074) # t
+SelectMore(0x0057) # W
+SelectMore(0x0062) # b
+SelectMore(0x0065) # e
+SelectMore(0u041A) # afii10028 cyrillic
+SelectMore(0u0430) # afii10065 cyrillic
+SelectMore(0u0438) # afii10074 cyrillic
+SelectMore(0u043B) # afii10077 cyrillic
+SelectMore(0u0440) # afii10082 cyrillic
+SelectMore(0u0446) # afii10088 cyrillic
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")

@@ -1,0 +1,38 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in "()Jura Gothic Каилрц Εάεηικλν", and also the ligatures needed for correct
+# 
+# fontforge -lang=ff -script menusubset.ff Jura-Regular.ttf;
+# mv Jura-Regular.{ttf.menu.ttf,menu};
+# # remove kerning table by hand
+
+Open($1)
+Select(0u0000) # null
+SelectMore(0x000D) # nonmarkingreturn
+SelectMore(0u0020) # space
+SelectMore(0u0028) # parenleft
+SelectMore(0u0029) # parenright
+SelectMore(0x004A) # J
+SelectMore(0x0061) # a
+SelectMore(0x0072) # r
+SelectMore(0x0075) # u
+SelectMore(0u041A) # afii10028 cyrillic
+SelectMore(0u0430) # afii10065 cyrillic
+SelectMore(0u0438) # afii10074 cyrillic
+SelectMore(0u043B) # afii10077 cyrillic
+SelectMore(0u0440) # afii10082 cyrillic
+SelectMore(0u0446) # afii10088 cyrillic
+SelectMore(0x0384) # tonos
+SelectMore(0x0395) # Epsilon
+SelectMore(0x03B1) # alpha
+SelectMore(0x03AC) # alphatonos
+SelectMore(0x03B5) # epsilon
+SelectMore(0x03B7) # eta
+SelectMore(0x03B9) # iota
+SelectMore(0x03BA) # kappa
+SelectMore(0x03BB) # lambda
+SelectMore(0x03BD) # nu
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")

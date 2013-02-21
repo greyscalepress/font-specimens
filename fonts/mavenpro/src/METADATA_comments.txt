@@ -1,0 +1,7 @@
+# COMMENTS
+# cd ~/src/font-optimizer/; ./subset.pl -v \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="Maven Pro" \
+#     ~/googlefontdirectory/mavenpro/MavenPro-Regular.ttf \
+#     ~/googlefontdirectory/mavenpro/MavenPro-Regular.menu; \
+#  cd ~/googlefontdirectory/mavenpro/; \

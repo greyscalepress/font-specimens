@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="1314"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="896" y="-499.763671875" type="curve"/>
+      <point x="909" y="-358.763671875" type="line"/>
+      <point x="820" y="-358.763671875"/>
+      <point x="733" y="-341.763671875"/>
+      <point x="733" y="-236.763671875" type="curve" smooth="yes"/>
+      <point x="733" y="-147.763671875"/>
+      <point x="775" y="-61.763671875"/>
+      <point x="816" y="17.236328125" type="curve"/>
+      <point x="701" y="17.236328125" type="line"/>
+      <point x="611" y="-67.763671875"/>
+      <point x="548" y="-185.763671875"/>
+      <point x="548" y="-285.763671875" type="curve" smooth="yes"/>
+      <point x="548" y="-471.763671875"/>
+      <point x="735" y="-501.763671875"/>
+    </contour>
+    <contour>
+      <point x="212" y="0.0" type="line"/>
+      <point x="1190" y="0.0" type="line"/>
+      <point x="1190" y="227.0" type="line"/>
+      <point x="509" y="227.0" type="line"/>
+      <point x="509" y="646.0" type="line"/>
+      <point x="1103" y="646.0" type="line"/>
+      <point x="1103" y="860.0" type="line"/>
+      <point x="509" y="860.0" type="line"/>
+      <point x="509" y="1249.0" type="line"/>
+      <point x="1179" y="1249.0" type="line"/>
+      <point x="1179" y="1477.0" type="line"/>
+      <point x="212" y="1477.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Eogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1314</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

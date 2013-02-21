@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="919"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="156" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="708" y="1176" type="line"/>
+      <point x="565" y="1176" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>notequal</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>919</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

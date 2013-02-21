@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aringacute" format="1">
+  <advance width="1532"/>
+  <unicode hex="01FA"/>
+  <outline>
+    <contour>
+      <point x="691.5" y="2074.83300781" type="line"/>
+      <point x="840.5" y="2074.83300781" type="line"/>
+      <point x="1073.5" y="2439.83300781" type="line"/>
+      <point x="805.5" y="2439.83300781" type="line"/>
+    </contour>
+    <contour>
+      <point x="766.0" y="1576.83300781" type="curve" smooth="yes"/>
+      <point x="698.0" y="1576.83300781"/>
+      <point x="648.0" y="1603.83300781"/>
+      <point x="648.0" y="1700.83300781" type="curve" smooth="yes"/>
+      <point x="648.0" y="1796.83300781"/>
+      <point x="698.0" y="1823.83300781"/>
+      <point x="765.0" y="1823.83300781" type="curve" smooth="yes"/>
+      <point x="833.0" y="1823.83300781"/>
+      <point x="884.0" y="1795.83300781"/>
+      <point x="884.0" y="1698.83300781" type="curve" smooth="yes"/>
+      <point x="884.0" y="1602.83300781"/>
+      <point x="833.0" y="1576.83300781"/>
+    </contour>
+    <contour>
+      <point x="766.0" y="1486.83300781" type="curve" smooth="yes"/>
+      <point x="909.0" y="1486.83300781"/>
+      <point x="996.0" y="1563.83300781"/>
+      <point x="996.0" y="1699.83300781" type="curve" smooth="yes"/>
+      <point x="996.0" y="1835.83300781"/>
+      <point x="908.0" y="1911.83300781"/>
+      <point x="766.0" y="1911.83300781" type="curve" smooth="yes"/>
+      <point x="623.0" y="1911.83300781"/>
+      <point x="536.0" y="1835.83300781"/>
+      <point x="536.0" y="1699.83300781" type="curve" smooth="yes"/>
+      <point x="536.0" y="1563.83300781"/>
+      <point x="623.0" y="1486.83300781"/>
+    </contour>
+    <contour>
+      <point x="74.0" y="0.0" type="line"/>
+      <point x="386.0" y="0.0" type="line"/>
+      <point x="472.0" y="281.0" type="line"/>
+      <point x="1057.0" y="281.0" type="line"/>
+      <point x="1140.0" y="0.0" type="line"/>
+      <point x="1458.0" y="0.0" type="line"/>
+      <point x="960.0" y="1477.0" type="line"/>
+      <point x="566.0" y="1477.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="531.0" y="479.0" type="line"/>
+      <point x="770.0" y="1255.0" type="line"/>
+      <point x="1000.0" y="479.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Aringacute</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1532</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

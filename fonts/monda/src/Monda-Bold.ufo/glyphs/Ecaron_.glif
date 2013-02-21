@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecaron" format="1">
+  <advance width="1314"/>
+  <unicode hex="011A"/>
+  <outline>
+    <contour>
+      <point x="613.5" y="1664" type="line"/>
+      <point x="776.5" y="1664" type="line"/>
+      <point x="1010.5" y="1964" type="line"/>
+      <point x="830.5" y="1964" type="line"/>
+      <point x="694.5" y="1789" type="line"/>
+      <point x="566.5" y="1964" type="line"/>
+      <point x="391.5" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="212.0" y="0" type="line"/>
+      <point x="1190.0" y="0" type="line"/>
+      <point x="1190.0" y="227" type="line"/>
+      <point x="509.0" y="227" type="line"/>
+      <point x="509.0" y="646" type="line"/>
+      <point x="1103.0" y="646" type="line"/>
+      <point x="1103.0" y="860" type="line"/>
+      <point x="509.0" y="860" type="line"/>
+      <point x="509.0" y="1249" type="line"/>
+      <point x="1179.0" y="1249" type="line"/>
+      <point x="1179.0" y="1477" type="line"/>
+      <point x="212.0" y="1477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ecaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1314</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

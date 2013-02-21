@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave" format="1">
+  <advance width="1532"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="690.5" y="1664" type="line"/>
+      <point x="841.5" y="1664" type="line"/>
+      <point x="720.5" y="2029" type="line"/>
+      <point x="453.5" y="2029" type="line"/>
+    </contour>
+    <contour>
+      <point x="74.0" y="0" type="line"/>
+      <point x="386.0" y="0" type="line"/>
+      <point x="472.0" y="281" type="line"/>
+      <point x="1057.0" y="281" type="line"/>
+      <point x="1140.0" y="0" type="line"/>
+      <point x="1458.0" y="0" type="line"/>
+      <point x="960.0" y="1477" type="line"/>
+      <point x="566.0" y="1477" type="line"/>
+    </contour>
+    <contour>
+      <point x="531.0" y="479" type="line"/>
+      <point x="770.0" y="1255" type="line"/>
+      <point x="1000.0" y="479" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Agrave</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1532</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

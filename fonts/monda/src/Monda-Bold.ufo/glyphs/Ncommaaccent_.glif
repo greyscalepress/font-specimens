@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="1682"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="806.5" y="-828" type="line"/>
+      <point x="868.5" y="-771"/>
+      <point x="1001.5" y="-587"/>
+      <point x="1001.5" y="-386" type="curve" smooth="yes"/>
+      <point x="1001.5" y="-163" type="line"/>
+      <point x="680.5" y="-163" type="line"/>
+      <point x="680.5" y="-439" type="line"/>
+      <point x="845.5" y="-439" type="line"/>
+      <point x="845.5" y="-577"/>
+      <point x="750.5" y="-723"/>
+      <point x="699.5" y="-781" type="curve"/>
+    </contour>
+    <contour>
+      <point x="212.0" y="0" type="line"/>
+      <point x="481.0" y="0" type="line"/>
+      <point x="481.0" y="996" type="line"/>
+      <point x="1245.0" y="0" type="line"/>
+      <point x="1470.0" y="0" type="line"/>
+      <point x="1470.0" y="1477" type="line"/>
+      <point x="1204.0" y="1477" type="line"/>
+      <point x="1204.0" y="464" type="line"/>
+      <point x="437.0" y="1477" type="line"/>
+      <point x="212.0" y="1477" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Ncommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1682</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="1986"/>
+  <unicode hex="0174"/>
+  <outline>
+    <contour>
+      <point x="683.5" y="1664" type="line"/>
+      <point x="863.5" y="1664" type="line"/>
+      <point x="999.5" y="1839" type="line"/>
+      <point x="1127.5" y="1664" type="line"/>
+      <point x="1302.5" y="1664" type="line"/>
+      <point x="1080.5" y="1964" type="line"/>
+      <point x="917.5" y="1964" type="line"/>
+    </contour>
+    <contour>
+      <point x="443.0" y="0" type="line"/>
+      <point x="705.0" y="0" type="line"/>
+      <point x="989.0" y="1053" type="line"/>
+      <point x="1299.0" y="0" type="line"/>
+      <point x="1544.0" y="0" type="line"/>
+      <point x="1930.0" y="1476" type="line"/>
+      <point x="1645.0" y="1476" type="line"/>
+      <point x="1405.0" y="466" type="line"/>
+      <point x="1109.0" y="1476" type="line"/>
+      <point x="858.0" y="1476" type="line"/>
+      <point x="599.0" y="455" type="line"/>
+      <point x="344.0" y="1476" type="line"/>
+      <point x="56.0" y="1476" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>b</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>Wcircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1986</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

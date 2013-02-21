@@ -1,0 +1,9 @@
+# COMMENTS
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Marvel" \
+#   ~/googlefontdirectory/Marvel/Marvel-Regular.{ttf,menu}; \
+# cd ~/googlefontdirectory/Marvel/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  Marvel-Regular.menu; \

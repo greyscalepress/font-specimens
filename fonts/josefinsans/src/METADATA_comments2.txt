@@ -1,0 +1,3 @@
+# COMMENTS
+# This version of the font is now hidden from the directory because it's been
+# superceded by the light weight of the Josefin Sans family.
