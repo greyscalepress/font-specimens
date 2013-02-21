@@ -1,0 +1,2 @@
+Copyright 2003--2007 by B. Jackowski and J.M. Nowacki (on behalf of TeX USERS GROUPS).
+This work is released under the GUST Font License --  see http://tug.org/fonts/licenses/GUST-FONT-LICENSE.txt for details.

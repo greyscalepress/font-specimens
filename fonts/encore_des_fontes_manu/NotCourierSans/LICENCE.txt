@@ -1,0 +1,1 @@
+NotCourier was designed by OSP (Ludivine Loiseau), in July 2008. It is based on Nimbus Mono, copyright (URW)++,Copyright 1999 by (URW)++ Design & Development; Cyrillic glyphs added by Valek Filippov (C) 2001-2005

@@ -1,0 +1,71 @@
+A few specimens by the students participating in the workshop:
+...
+...
+
+Rapport du jour 2.
+De bonnes propositions graphiques ont été apportées pour les spécimens. Celui de Fabio ... nous a lancé sur un format: un faux A4 resserré, vertical, 26... sur 15... 
+
+Après un test effectué sur Amazon CreateSpace, nous le redimensionnons à ... cm, la hauteur maximale autorisée. Quelle étrange valeur, ces 69 mm ...
+Un compte Amazon CreateSpace créé par Patricio, avec les données bancaires de Sophie (qui a un compte bancaire EU français, les comptes suisses ne sont pas acceptés par Amazon). Nous autorisons Amazon à prélever la taxe VAT sur les transactions ayant lieu aux Etat-Unis...
+
+Rapport du jour 3.
+
+Jour décisif dans ce workshop.
+
+D'innombrables tests de spécimens, pour aboutir à un résultat qui nous satisfait. Trop rigide, trop structuré, trop aléatoire, trop dense, trop aéré...
+Finalement, en début d'après-midi, nous tenons notre modèle gagnant.
+
+Il s'agit maintenant d'attaquer un problème épineux: quel sera le workflow qui, si tout va bien, nous permettra d'about au livre auquel nous aspirons?
+
+Après quelques propositions -- travailler sur un seul fichier InDesign central (impossible...), ou découper le texte en morceaux de 2300 charactères (extrêmement fastidieux...) -- nous finissons par trouver la solution: il suffit de diviser le texte global en autant de blocs qu'il y a de participants. Et faire de même pour les fontes: les partager arbitrairement en 12 dossiers.
+  
+Nous faisons le compte: le livre "L'Ève future" comporte 85'388 mots / 535'886 caractères.
+Répartis en 12 participants, cela fait 7115 mots / 44'657 caractères pour chacun. 
+Sachant qu'un spécimen prend environ 500 mots / 3000 caractères, on produira environ 15 spécimens chacun (avec une autre fonte, l'estimation arrive à 19). Cela reste dans un ordre de grandeur réaliste... quelle bonne surprise!
+
+Il faudra donc environ 180 fontes pour ce livre ... nous en avons à peu près 120, il reste à en trouver 60 (ou alors nous utiliserons des variantes de graisse).
+
+Grande joie de l'équipe communication-marketing: @OmnibusType, fonderie à l'origine de Chivo (fonte sur laquelle l'équipe graphique transpire depuis 24 heures à produire nos protypes de spécimen) a followé notre compte Twitter!
+
+La page Facebook dépasse les 80 membres. Une quinzaine de followers sur Twitter. Grand succès sur les réseaux sociaux.
+
+Nous quittons la salle de travail, en nous préparant à un marathon de production demain...
+
+NOTES DE TRAVAIL:
+Quelques erreurs commises:
+
+Le fichier texte-source (dans notre impatience de commencer...) n'était pas entièrement optimisé:
+
+1) Il comporte des italiques. Il faut faire un rechercher/remplacer pour attribuer un "Style de caractère" à ces italiques. Ainsi on pourrait plus facilement les préserver à l'intérieur du spécimen.
+Méthode: cmd-F, chercher format +Italic, remplacer avec Style de caractère "Texte en italique".
+
+2) Il comporte des retours de paragraphe. Il faut remplacer tous ces retours de paragraphe par le symbole de paragraphe (¶). Pour ce faire, rechercher (cmd-F) "^p" et remplacer par " ^7 ".
+Note: pour les fontes qui ne possèdent pas ce glyphe, le remplacer par deux barres verticales " || ". Alt-7 pour les insérer sur un clavier Mac suisse.
+
+3) Le texte était justifié, il faut l'aligner à gauche.
+
+Le fichier InDesign également n'était pas optimisé à 100%. Quelques améliorations recommandées:
+
+1) Donner un style aux éléments qui se répètent, comme les indications de taille de corps, ou les numéros de page. Cela permettra de mettre à jour leur style d'un seul coup.
+2) Le grand titre de la fonte : aligner à droite et corriger le point d'origine.
+3) ajouter quelques repères: p.ex. pour garder à peu près la même hauteur pour les numéros de page: mettre un marqueur limitant le haut des lettres, et ajuster les tailles pour que ça entre.
+
+***
+Objectifs et prévisions:
+
+Scribus: nous n'avons pas eu le temps de faire une introduction à ce logiciel. À prévoir pour le jour 4...
+
+Contacts de presse: essayer d'avoir quelques journalistes locaux au téléphone. Journaux, radio... Appeler Simon K.
+
+A ajouter au livre: 
+Les remerciements!
+
+Merci en premier lieu aux auteurs de toutes les fontes figurant dans ce livre, pour leur générosité.
+Merci au corps enseignant de la HEAD, qui a permis à ce workshop d'avoir lieu, en particulier Florence Marguerat, Pierre-Alain Giesser, Barbara Fédier et Daniel Sciboz.
+Merci à ceux dont le travail nous a inspiré:
+James Goggin de Practise et les étudiant de la Hochschule Darmstadt / FB Gestaltung, pour le livre "Dear Lulu"; Radim Peško et Jean-Baptiste Levée, pour leurs beaux catalogues de spécimens produits en print-on-demand; ...
+Merci aux programmeurs de Git, Github, Aero FS, Adobe InDesign, Scribus ...
+Merci à Amazon CreateSpace pour avoir imprimé ce livre.
+
+***
+

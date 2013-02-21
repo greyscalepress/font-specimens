@@ -1,0 +1,70 @@
+Basic Font Information
+----------------------
+
+Univers Else is an experiment, a first attempt to escape the post '80 era of geometrical purity that is so typical of Postscript vector based font drawing. The shapes of Univers Else were obtained from scanning printed textpages that were optically composed by cheap phototypesetting machines in the sixties and seventies. Some of Univers Else beautiful features are: round angles, floating baselines, erratic kerning.
+
+More precisely in this case, George Maciunas of the Fluxus group used an IBM composer (probably a Selectric typewriter) for most of his own work, and as a former designer, for all Fluxus work. In the 1988 book 'Fluxus Codex', the body text is typeset in a charmingly rounded and dancing Univers that seems to smile playfully at its dry swiss creator. As if it was really tempted, trying to provide a beautiful warm up to this old modernist classical. Along with a free, open and libre version!
+
+A book about contemporary architecture in Wallonia and Brussels provided an ass-kicking opportunity. Three weights were needed. We were not sure that we'll have the time to finish the fonts in time before having to send the pdf file to the printer. So we laid out the publication with the standard Univers family, and replaced it at the last moment with our version. Suddenly, the 286 pages book jumped out of the ice!
+
+Different scans were assembled following different grids. These huge bitmaps were processed with appropriate potrace settings by the Fonzie software* through a .ufo font format as a working format, and an OpenType as output. Some testing and fine-tuning was done in FontForge and the font was ready, in a finished state enough to typeset the book. The oblique versions was simply slanted on the fly.
+
+* Fonzie has been develop by Pierre Marchand after a combined push between, among others :
+— The need for a convenient way to produce handdrawn fonts for translated version of comics, using Opentype features to automatically switch between different versions of each glyph that try to emulate variations typical of hand drawn lettering. It has been developed and used to produced a lettering font for Manu Arenas via Francois Dispaux* and the Nemoto font for an Eve Deluze*'s lettering job. *These two persons partly financed fonzie's development.
+— An osp installation system called Nancy, deploying the Dingbats Liberation Fest at the gallery My.Monkey in Nancy, France and then at Make-Art Festival in Poitiers, France. This system is semi-automated process of scanning of cardboard-cuted dingbats and inclusion of these shape in a collaborative font. It turn the simplest design into a complicated process involving Fontforge, Subversion, Scribus Python scripter, PoDoFo, glue and good wills...
+— The 20 years Pierre Huyghebaert's desire to be produce more easily 20th century font revivals based on cared vectorization.
+— A straightforward version is now enthusiastically used in workshops, starting at the Erg by Ludivine Loiseau and followed by other schools like La Cambre.
+
+Univers Else currently provides the following Unicode coverage:
+Basic Latin: U+0020-U+007E - 95 glyphs on 95
+Latin-1 Supplement: U+00a0-U+00FF - 95 glyphs on 96
+Latin Extended-A U+0100-U+017F - 2 glyphs on 128
+General Punctuation U+2000-U+206F - 14 glyphs on 107
+Currency Symbols U+20A0-U+20CF - 1 glyphs on 22
+
+
+Information for Contributors
+----------------------------
+
+Univers Else is released under the OFL 1.1 -- http://scripts.sil.org/OFL
+For information on what you're allowed to change or modify, 
+consult the OFL-1.1.txt and OFL-FAQ.txt files.  The OFL-FAQ also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
+
+See the project website for the current trunk and the various branches:
+http://ospublish.constantvzw.org/foundry/univers-else
+
+
+ChangeLog
+---------
+
+9 December 2010 - Version 1.0
+- Initial release of fonts "Univers Else" (Light, Regular, Bold) by Pierre Huyghebaert
+
+
+Acknowledgements
+----------------
+
+If you make modifications be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is sorted by last name in alphabetical order.
+
+N: Pierre Huyghebaert
+E: pierre@speculoos.com
+W: http://www.speculoos.com
+D: Typography, initiative, testing
+
+N: Pierre Marchand
+E: pierremarc@oep-h.com
+W: http://www.oep-h.com
+D: Development and typography, Fonzie software
+
+N: Delphine Platteeuw
+E: welcome@burodesk.be
+W: http://www.burodesk.be
+D: Design and testing
+
+N: Grégoire Vigneron
+E: creation@autourde.be
+W: http://www.autourde.be
+D: Scanning and assembling
+
+Financial support by Speculoos
