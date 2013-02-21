@@ -1,0 +1,32 @@
+cd ~/googlefontdirectory/ofl/; \
+  for family in unicaone; do \
+    for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+      cd ~/src/font-optimizer; \
+      ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+       --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac,ss01,aalt" \
+       --chars="Unica One" \
+      ~/googlefontdirectory/ofl/$font.{ttf,menu}; \
+      cd ~/googlefontdirectory/ofl/; \
+      ~/googlefontdirectory/tools/chars/showchars.py \
+       $font.menu; 
+    cd ~/googlefontdirectory/ofl/unicaone/; \
+  done;
+done;
+
+rm *.nam *.log *.latin *.latin-ext *.cyrillic *.cyrillic-ext *.greek *.greek-ext *vietnamese; \
+cd ~/googlefontdirectory/ofl/; \
+for family in unicaone; do \
+   for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+       for subset in \
+           latin latin-ext+latin; do \
+           echo subset.py --null --nmr --roundtrip --script \
+               --subset=$subset $font.ttf $font.$subset; \
+           python ~/googlefontdirectory/tools/subset/subset.py \
+               --null --nmr --roundtrip --script --subset=$subset \
+               $font.ttf $font.$subset >> $font.$subset.log \
+              # 2>> $font.$subset.log; \
+       done; \
+   done; \
+done; \
+cd ~/googlefontdirectory/ofl/unicaone/; \
+rename 's/([^+])\+latin$/$1/' *;
