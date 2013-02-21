@@ -1,0 +1,33 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in "()NovaMono Εάεηικλν", and also the ligatures needed for correct
+# 
+# fontforge -lang=ff -script menusubset.ff NovaMono.ttf;
+# mv NovaMono.{ttf.menu.ttf,menu};
+
+Open($1)
+Select(0u0000) # null
+SelectMore(0x000D) # nonmarkingreturn
+SelectMore(0u0020) # space
+SelectMore(0u0028) # parenleft
+SelectMore(0u0029) # parenright
+SelectMore(0x004D) # M
+SelectMore(0x004E) # N
+SelectMore(0x0061) # a
+SelectMore(0x006E) # n
+SelectMore(0x006F) # o
+SelectMore(0x0076) # v
+SelectMore(0x0384) # tonos
+SelectMore(0x0395) # Epsilon
+SelectMore(0x03B1) # alpha
+SelectMore(0x03AC) # alphatonos
+SelectMore(0x03B5) # epsilon
+SelectMore(0x03B7) # eta
+SelectMore(0x03B9) # iota
+SelectMore(0x03BA) # kappa
+SelectMore(0x03BB) # lambda
+SelectMore(0x03BD) # nu
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")

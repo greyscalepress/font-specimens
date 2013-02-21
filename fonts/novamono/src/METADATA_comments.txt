@@ -1,0 +1,16 @@
+# COMMENTS
+#subsets: menu,latin,latin-ext,greek+latin
+# menusubset.ff used to make menu
+# cd novamono;
+#    for font in `ls -1 *ttf | cut -d. -f1`; do
+#        for subset in \
+#            latin latin-ext greek+latin; do
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset;
+#            python ~/googlefontdirectory/tools/subset/subset.py \
+#                --null --nmr --roundtrip \
+#                --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log;
+#        done;
+#    cd ..;
+# done;
