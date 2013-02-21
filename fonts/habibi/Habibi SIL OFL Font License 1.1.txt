@@ -1,5 +1,5 @@
-Copyright (c) 2012, Manuel Schmalstieg (@greyscalepress), with Reserved Font Name "Karmilla". 
-Most of the glyphs originate from Karla, copyright (c) 2011 by Jonathan Pinhorn (pinhorn.typedesign@gmail.com)
+Copyright (c) 2011 by Sorkin Type Co (www.sorkintype.com),
+with Reserved Font Name "Habibi".
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
