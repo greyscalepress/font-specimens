@@ -1,0 +1,57 @@
+license: OFL
+category: serif
+subsets: menu,latin
+
+family: Arapey
+
+designer: Eduardo Tunni
+
+approved: true
+description: <p>Arapey (Ah-ra-pay) is a \
+  contemporary modern typeface.</p> \
+  <p>The first sketches of this typography \
+  were made during a vacation in Arapey, a \
+  small town the north of Uruguay, hence \
+  its name.</p> \
+  <p>While this font style has reminiscences \
+  of a Bodoni, the structures, soft lines and \
+  finishes give the words that use it a calm and \
+  distinguished feeling.</p> \
+  <p>The italics are gentle, rhythmic, and \
+  bring a special glamour to both text use \
+  and titles.</p>
+
+font.Arapey-Regular.ttf.style: normal
+font.Arapey-Italic.ttf.style: italic
+
+font.Arapey-Regular.ttf.weight: 400
+font.Arapey-Italic.ttf.weight: 400
+
+# cd ~/googlefontdirectory/arapey/; \
+# for font in `ls -1 *ttf | cut -d. -f1`; do
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Arapey" \
+#   ~/googlefontdirectory/arapey/$font.{ttf,menu}; \
+# cd ~/googlefontdirectory/arapey/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  $font.menu; \
+# done; 
+
+# cd ~/googlefontdirectory/arapey/; \
+# rm *.nam *.log *.latin *.latin-ext *.cyrillic+latin *.cyrillic-ext+latin *.greek+latin *.greek-ext+latin; \
+# cd ~/googlefontdirectory/; \
+# for family in arapey; do \
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+#        for subset in \
+#            latin latin-ext; do \
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset; \
+#            python tools/subset/subset.py --null --nmr --roundtrip \
+#                --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log; \
+#        done; \
+#    done; \
+# done; \
+# cd ~/googlefontdirectory/arapey/; \
