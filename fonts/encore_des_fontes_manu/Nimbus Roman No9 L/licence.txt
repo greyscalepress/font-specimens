@@ -1,0 +1,3 @@
+Designer(s): URW Studio; (Stanley Morison, Victor Lardent); GPL published also by Valek Fillipov
+Date released 	1982
+Released under the GPL and AFPL (as Type 1 font for Ghostscript) in 1996 and LPPL in 2009
