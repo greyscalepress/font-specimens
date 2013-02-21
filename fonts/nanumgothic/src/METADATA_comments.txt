@@ -1,0 +1,12 @@
+# WARNING: NOTE THAT ONLY GOOGLE INC MAY DISTRIBUTE MODIFIED VERSIONS WITH RFN
+# 2011-03-26 DC should include latin and do v3 subsetting
+cd ~/googlefontdirectory/ofl/nanumgothic;
+fontforge -lang=ff -script menusubset-korean.ff NanumGothic-Regular.ttf;
+mv NanumGothic-Regular.ttf.menu.ttf NanumGothic-Regular.menu;
+fontforge -lang=ff -script menusubset-korean.ff NanumGothic-Bold.ttf;
+mv NanumGothic-Bold.ttf.menu.ttf NanumGothic-Bold.menu;
+fontforge -lang=ff -script menusubset-korean.ff NanumGothic-ExtraBold.ttf;
+mv NanumGothic-ExtraBold.ttf.menu.ttf NanumGothic-ExtraBold.menu;
+
+
+for font in `ls -1 *ttf | cut -d. -f1`; do cp $font.ttf $font.korean; done

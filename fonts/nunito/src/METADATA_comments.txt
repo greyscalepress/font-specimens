@@ -1,0 +1,30 @@
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Nunito" \
+# ~/googlefontdirectory-new_tree/ofl/nunito/Nunito-Regular.{ttf,menu}; \
+# cd ~/googlefontdirectory-new_tree/ofl/nunito/; \
+# ~/googlefontdirectory-new_tree/tools/chars/showchars.py \
+#  Nunito-Regular.menu; 
+
+# cd ~/googlefontdirectory-new_tree/ofl/nunito/; \
+# rm *.nam *.log *.latin *.latin-ext *.cyrillic *.cyrillic-ext *.greek *.greek-ext; \
+# cd ~/googlefontdirectory-new_tree/; \
+# for family in nunito; do \
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+#        for subset in \
+#            latin latin-ext; do \
+#            echo subset.py --null --nmr --roundtrip --script \
+#                --subset=$subset $font.ttf $font.$subset; \
+#            python ~/googlefontdirectory-new_tree/tools/subset/subset.py \
+#                --null --nmr --roundtrip --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log; \
+#        done; \
+#    done; \
+# done; \
+# cd ~/googlefontdirectory-new_tree/ofl/nunito/; \
+# rename s/cyrillic\\+latin/cyrillic/g *; \
+# rename s/cyrillic-ext\\+latin/cyrillic-ext/g *; \
+# rename s/greek\\+latin/greek/g *; \
+# rename s/greek-ext\\+latin/greek-ext/g *; \
+# rename s/vietnamese\\+latin/vietnamese/g *; \

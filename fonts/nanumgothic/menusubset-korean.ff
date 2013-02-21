@@ -1,0 +1,26 @@
+#!/usr/local/bin/fontforge
+# A simple script to generate a menu subset. It outputs all unicode characters
+# in the word for "Korean script", and also the ligatures needed for correct
+# shaping. 
+Open($1)
+Select(0u0020)     # space
+SelectMore(0uAD6D) # korean
+SelectMore(0uC5B4) # korean
+SelectMore(0uD55C) # korean
+SelectMore(0u0028) # (
+SelectMore(0u0029) # )
+SelectMore(0u004E) # N
+SelectMore(0u0061) # a
+SelectMore(0u006E) # n
+SelectMore(0u0075) # u
+SelectMore(0u006D) # m
+SelectMore(0u0047) # G
+SelectMore(0u006f) # o
+SelectMore(0u0074) # t
+SelectMore(0u0068) # h
+SelectMore(0u0069) # i
+SelectMore(0u0063) # c
+SelectInvert()
+Clear()
+# This has to end in .ttf or it will not include all the needed glyphs
+Generate($1 + ".menu.ttf")
