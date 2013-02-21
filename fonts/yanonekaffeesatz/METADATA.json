@@ -1,0 +1,52 @@
+{
+  "name": "Yanone Kaffeesatz",
+  "designer": "Yanone",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 39032,
+  "fonts": [
+    {
+      "name": "Yanone Kaffeesatz",
+      "style": "normal",
+      "weight": 200,
+      "filename": "YanoneKaffeesatz-ExtraLight.ttf",
+      "postScriptName": "YanoneKaffeesatz-ExtraLight",
+      "fullName": "Yanone Kaffeesatz ExtraLight",
+      "copyright": "Copyright (c) 2010, Yanone (http://yanone.de/typedesign/). All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Yanone Kaffeesatz",
+      "style": "normal",
+      "weight": 300,
+      "filename": "YanoneKaffeesatz-Light.ttf",
+      "postScriptName": "YanoneKaffeesatz-Light",
+      "fullName": "Yanone Kaffeesatz Light",
+      "copyright": "Copyright (c) 2010, Yanone (http://yanone.de/typedesign/). All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Yanone Kaffeesatz",
+      "style": "normal",
+      "weight": 400,
+      "filename": "YanoneKaffeesatz-Regular.ttf",
+      "postScriptName": "YanoneKaffeesatz-Regular",
+      "fullName": "Yanone Kaffeesatz Regular",
+      "copyright": "Copyright (c) 2010, Yanone (http://yanone.de/typedesign/). All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "Yanone Kaffeesatz",
+      "style": "normal",
+      "weight": 700,
+      "filename": "YanoneKaffeesatz-Bold.ttf",
+      "postScriptName": "YanoneKaffeesatz-Bold",
+      "fullName": "Yanone Kaffeesatz Bold",
+      "copyright": "Copyright (c) 2010, Yanone (http://yanone.de/typedesign/). All rights reserved. This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "latin-ext",
+    "menu"
+  ],
+  "dateAdded": "2010-05-11"
+}

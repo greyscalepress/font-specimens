@@ -1,0 +1,56 @@
+# COMMENTS
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Yanone Kaffeesatz" \
+# ~/googlefontdirectory/kaffeesatz/YanoneKaffeesatz-ExtraLight.{ttf,menu}; \
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  YanoneKaffeesatz-Regular.menu; 
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Yanone Kaffeesatz" \
+# ~/googlefontdirectory/kaffeesatz/YanoneKaffeesatz-Light.{ttf,menu}; \
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  YanoneKaffeesatz-Regular.menu; 
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Yanone Kaffeesatz" \
+# ~/googlefontdirectory/kaffeesatz/YanoneKaffeesatz-Regular.{ttf,menu}; \
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  YanoneKaffeesatz-Regular.menu; 
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#  --exclude="c2sc,smcp,ordn,sups,sinf,subs,dlig,frac" \
+#  --chars="Yanone Kaffeesatz" \
+# ~/googlefontdirectory/kaffeesatz/YanoneKaffeesatz-Bold.{ttf,menu}; \
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# ~/googlefontdirectory/tools/chars/showchars.py \
+#  YanoneKaffeesatz-Regular.menu; 
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# rm *.nam *.log *.latin *.latin-ext *.cyrillic *.cyrillic-ext *.greek *.greek-ext; \
+# cd ~/googlefontdirectory/; \
+# for family in kaffeesatz; do \
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+#        for subset in \
+#            latin latin-ext \
+#            cyrillic+latin cyrillic-ext+latin \
+#            greek+latin greek-ext+latin; do \
+#            echo subset.py --null --nmr --roundtrip --script \
+#                --subset=$subset $font.ttf $font.$subset; \
+#            python tools/subset/subset.py --null --nmr --roundtrip \
+#                --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log; \
+#        done; \
+#    done; \
+# done; \
+# cd ~/googlefontdirectory/kaffeesatz/; \
+# rename s/cyrillic\\+latin/cyrillic/g *; \
+# rename s/cyrillic-ext\\+latin/cyrillic-ext/g *; \
+# rename s/greek\\+latin/greek/g *; \
+# rename s/greek-ext\\+latin/greek-ext/g *; \
+# rename s/vietnamese\\+latin/vietnamese/g *; \
