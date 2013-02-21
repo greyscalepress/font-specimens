@@ -1,0 +1,2 @@
+(URW)++,Copyright 2000 by (URW)++ Design & Development
+Released under the AFPL license.
