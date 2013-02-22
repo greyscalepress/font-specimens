@@ -1,0 +1,89 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : couverture_sophie.indd
+
+DATE D'ASSEMBLAGE : 22.02.13 13:35
+Date de création : 22.02.13
+Date de modification : 22.02.13
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Page2, 3, 4, 5, 8, 9, 10
+
+POLICES
+4 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : BilboINC; Type : TrueType, Etat : OK
+- Nom : Chivo-Regular; Type : OpenType TrueType, Etat : OK
+- Nom : HelveticaNeue-Bold; Type : TrueType, Etat : OK
+- Nom : MinionPro-Regular; Type : OpenType Type 1, Etat : OK
+
+
+COULEURS ET ENCRES
+4 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Cyan quadri; Angle : 15.000; Lignes/pouce : 85.000
+- Nom et type : Magenta quadri; Angle : 75.000; Lignes/pouce : 85.000
+- Nom et type : Jaune quadri; Angle : 0.000; Lignes/pouce : 85.000
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 85.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 5 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Images : 0 Incorporé(e)(s), 0 utilisant l'espace colorimétrique RVB
+
+
+PARAMETRES D'IMPRESSION
+PPD : E-5200 PS V1.0, (HEAD-Follow-You)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Oui
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : Centrer
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 160 mm x 295 mm
+Dimensions du papier : 297.039 mm x 420.158 mm
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. couverture_sophie.indd; type : Composition Adobe InDesign; taille : 1456K
+2. BilboINC.ttf; type : Fichier de polices; taille : 30K
+3. Chivo-Regular.ttf; type : Fichier de polices; taille : 49K
+4. HelveticaNeue.dfont; type : Fichier de polices; taille : 3453K
+5. MinionPro-Regular.otf; type : Fichier de polices; taille : 212K
