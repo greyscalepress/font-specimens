@@ -1,0 +1,269 @@
+Serif
+
+Alegreya
+Almendra
+Amethysta
+Antic Slab
+Arapey
+Arvo
+
+
+Baskervald
+Berenis
+Bitter
+Bree Serif
+Buenard
+
+
+Cambo
+Cardo
+Charis
+Crete round
+Crimson
+
+Devroye
+Domine
+Doulos
+Droid Serif
+Dustismo
+
+EB Garamond
+Enriqueta
+
+Fanwood
+Forum
+Free Serif
+
+Galatia SIL
+Gandhi Serif
+Garamond n°8
+Gentium Basic
+
+Habibi
+
+Inika
+
+Josefin Slab
+Judson
+Junicode
+Junge
+
+Kameron
+Kreon
+
+Liberation Serif
+Libre Baskerville
+Linden Hill
+Linux Libertine
+LMRoman 8
+LM Type Writer
+Lora
+Lusitana
+Luxi Serif
+
+Mate
+Merriweather
+
+Neuton
+News Cycle
+Nimbus No 9
+Noticia Text
+
+Old Standard
+Oswald
+Ovo
+
+Petrona
+Podkova
+Polaris
+Poly
+Prociono
+PT Serif
+
+Quattrocento Roman
+Quattrocento Sans
+
+Radley
+Rokkit
+Romande ADF Std
+Rosarivo
+
+Sedan
+Sorts Mill Goudy
+
+Tienne
+Tinos
+Theano Old Style
+Tribun ADF
+Trykker
+
+U001
+Unna
+Utopia
+
+Volkhov
+Vollkorn
+
+Wire One
+Yanone Kaffesatz
+
+
+Sans Serif
+
+Abel
+Actor
+Afta Sans
+Amaranth
+Amble
+Andika
+Anonymous
+ANTIC
+Archivo
+Arimo
+Armata
+ASAP
+
+Banksia
+Bitstream Vera Sans
+Bonveno CF
+
+Cabin
+Cantarell
+Caviar Dreams
+Chivo
+Codacaption
+Colaborate
+Comfortaa
+Copse
+
+DejaVu Sans
+Didact Gothic
+Droid Sans
+Duru Sans
+
+Exo
+
+Fengardo Neue
+Flamenco
+Free Sans
+
+Geosans Light
+Gudea
+
+Hammer Smith One
+Hero
+
+Inder
+Istokweb
+
+Josefin Sans
+Junction
+Jura
+
+Karla
+
+Lato
+League Gothic
+Liberation Sans
+LM Sans 10
+Logisoso
+LS
+Luxi Sans
+
+Magra
+Marvel
+Maven Pro
+Merienda
+Mint Spirit
+Monda
+
+Not Courier
+Nobile
+Nova Flat
+Numans
+Nunito
+
+Open Sans
+Orienta
+Oxygen
+
+Paytone One
+Pontano Sans
+PT Sans/Narrow/Caption
+
+Quantico
+Quercus
+Questrial
+
+Raleway
+Rambla
+Rationale One
+Resagnicto
+Roboto
+Ropa Sans
+Rosario
+
+Sansation
+Scada
+Scifly
+Signika
+Sophia Nubian
+
+Tex Gyre Adventor
+Tiresias
+Tittilium Text
+Trocchi
+Tuffy
+
+U001
+Uduntu
+Universalis ADF
+Univers Else
+
+Varela Round
+
+Weblysleek UI
+Wintertür Condensed
+
+Yanone
+
+Mono
+
+Aurulent
+
+Consola
+Courier Prime
+Cousine
+
+DejaVu SansMono
+Droid Sans Mono
+
+Free Mono
+
+Goblin One
+Gruppo
+
+Imprima
+Inconsolata
+
+Lekton
+Liberation Mono
+Luxi Mono
+
+Medula One
+
+Nova Mono
+
+Oxygen Mono
+
+PT Mono
+
+Quicksand
+
+Share Tech Mono
+Source Code Pro
+
+Terminal Dosis
+
+Ubuntu Mono
+Unica One
