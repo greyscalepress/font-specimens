@@ -1,0 +1,81 @@
+INSTRUCTIONS D'IMPRESSION ADOBE INDESIGN POUR LE RAPPORT DU PRESTATAIRE DE SERVICES
+
+NOM DE LA COMPOSITION : Index.indd
+
+DATE D'ASSEMBLAGE : 22.02.13 14:01
+Date de création : 22.02.13
+Date de modification : 22.02.13
+
+INFORMATIONS DE CONTACT
+
+Nom de la société : 
+Contact : 
+Adresse : 
+
+
+
+
+
+Téléphone : 
+Télécopie : 
+Adresse électronique : 
+
+INSTRUCTIONS SPECIALES ET AUTRES REMARQUES
+
+
+
+
+
+
+Modules externes 0
+Objets non opaques :Sans
+
+POLICES
+2 Police(s) utilisée(s); 0 Manquant(e)(s), 0 Incorporé(e)(s), 0 Incomplète(s), 0 Protégée(s)
+
+Polices assemblées
+- Nom : Chivo-Black; Type : OpenType TrueType, Etat : OK
+- Nom : Chivo-Regular; Type : OpenType TrueType, Etat : OK
+
+
+COULEURS ET ENCRES
+1 Encre(s) quadri; 0 Encre(s) de tons directs
+
+- Nom et type : Noir quadri; Angle : 45.000; Lignes/pouce : 212.000
+
+
+LIENS ET IMAGES
+(Liens manquants et incorporés uniquement)
+Liens et images : 0 Lien(s) détecté(s); 0 Modifié(s), 0 Manquant(e)(s) 0 Inaccessible
+Images : 0 Incorporé(e)(s), 0 utilisant l'espace colorimétrique RVB
+
+PARAMETRES D'IMPRESSION
+PPD : HP LaserJet 5200, (En12-CV1-hp5200-006153)
+Impression sur : Imprimante
+Nombre de copies : 1
+Planches : Oui
+Pages paires/impaires : Les deux
+Pages : Toutes
+Epreuve : Non
+Mosaïque : Sans
+Echelle : 100 %, 100 %
+Position de la page : En haut, à gauche
+Imprimer les calques : Calques visibles et imprimables
+Marques d'imprimeur : Sans
+Fond perdu : 0 mm, 0 mm, 0 mm, 0 mm
+Couleur : CMJN composite
+Mode de recouvrement : Sans
+Envoi des données d'images : Echantillonnage optimisé
+Substitution d'image OPI/DCS : Non
+Format de page : Personnalisé : 160 mm x 295 mm
+Dimensions du papier : 297.039 mm x 420.158 mm
+Orientation : Paysage
+Négatif : Non
+Symétrie : Désactivée
+
+
+LISTE DES FICHIERS DE L'ENVOI
+
+1. Index.indd; type : Composition Adobe InDesign; taille : 1460K
+2. Chivo-Black.ttf; type : Fichier de polices; taille : 53K
+3. Chivo-Regular.ttf; type : Fichier de polices; taille : 49K
