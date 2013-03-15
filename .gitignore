@@ -36,10 +36,12 @@ Thumbs.db
 # Temporary files #
 ###################
 *.autosave
+*(Autosaved).md
 .sparkleshare
 .~lock.*
 *.idlk
-
 *.lst
 
-*.lst
+# Excluded folders #
+###################
+# marketing/
