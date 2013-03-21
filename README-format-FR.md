@@ -28,7 +28,7 @@ Page de gauche:
 Organisation du livre
 =====================
 
-Le livre débute par une section d'introduction (), suivi par les spécimens. Ils sont chapitrés de la manière suivante (ce chapitrage n'est pas visible dans le livre):
+Le livre débute par une section d'introduction (), suivie par les spécimens. Ils sont chapitrés de la manière suivante (ce chapitrage n'est pas visible dans le livre):
 
 01: Claire
 02: Pat
@@ -44,4 +44,4 @@ Le livre débute par une section d'introduction (), suivi par les spécimens. Il
 12: Laura
 
 
-
+***
