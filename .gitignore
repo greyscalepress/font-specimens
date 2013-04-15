@@ -45,4 +45,6 @@ Thumbs.db
 # Excluded folders #
 ###################
 marketing/
-print/old-versions/
+old-versions/
+test-export/
+
