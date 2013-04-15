@@ -1,4 +1,0 @@
-Designers: HARENDAL Hirwen 
-Copyright: Copyright (c) Arkandis Digital Foundry under the GNU General Public License V2 and later with font exception.
-Notes: Berenis possède toute l'élégance et le charme d'une Didone. Elle peut aisément remplacer le Bodoni ou le Didot dans tous les types de publication et plus particulièrement pour les présentations raffinées.
-URL: http://arkandis.tuxfamily.org/adffonts.html

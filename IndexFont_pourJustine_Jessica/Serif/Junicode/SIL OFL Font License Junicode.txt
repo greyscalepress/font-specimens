@@ -1,4 +1,0 @@
-Designer: Peter S. Baker
-Licence: OFL
-Notes: Junicode ("Junius-Unicode") is a free (SIL Open Font License) old-style serif typeface developed by Peter S. Baker of the University of Virginia. The design is based on a 17th century typeface used in Oxford, England.
-Junicode contains many special characters and ligatures for medievalists, along with numerous other Unicode glyphs. The font has OpenType features for advanced typesetting and includes true small caps.
